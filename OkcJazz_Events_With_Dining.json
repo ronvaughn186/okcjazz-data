@@ -1,0 +1,167 @@
+[
+  {
+    "event": "Wine Down Wednesday - The Study",
+    "date_time": "Wed, May 7 @ 6:30PM \u2014 8:30PM",
+    "location": "The Study, 701 W. Sheridan, Ste. 100, Oklahoma City, OK",
+    "description": "Treat yourself to a relaxing evening of fine wine and excellent live music. The Study is a 64-tap wine bar located in the historic Paramount Building in West Village, OKC. Enjoy happy hour specials and a mid-week jazz swing lounge atmosphere.",
+    "dining_suggestions": [
+      "Mary Eddy's Dining Room (Modern American, upscale) - Inside 21c Museum Hotel, great for pre-show cocktails and appetizers",
+      "Jones Assembly (Industrial-chic, Southern-inspired) - Trendy spot just a few blocks away with music, cocktails, and bites",
+      "Bar Cicchetti (Italian-Mediterranean) - Stylish spot for small plates and wine on Film Row"
+    ]
+  },
+  {
+    "event": "The Speakeasy Jazz Night: Calliope Staudt w/ Kendrik McKinney Quartet",
+    "date_time": "Wed, May 7 @ 8:30PM",
+    "location": "51st Street Speakeasy, 1114 NW 51st St, Oklahoma City, OK 73118",
+    "description": "Jazz vocalist Calliope Staudt headlines Jazz Night at The Speakeasy, backed by Kendrik McKinney and band. Music starts at 8:30 with an open jazz jam at 9:30. 21+ venue, limited seating, no cover.",
+    "dining_suggestions": [
+      "Guyutes (Eclectic gastro-pub) - Two blocks away, creative dishes and rooftop seating",
+      "Big Truck Tacos (Casual Mexican) - Quick, flavorful tacos just minutes away",
+      "Pizzeria Gusto (Wood-fired pizza) - Charming spot in Uptown 23rd District, 5 min drive"
+    ]
+  },
+  {
+    "event": "Kendrik McKinney @ Sidecar (East Edmond)",
+    "date_time": "Thu, May 8 @ 7:00PM \u2014 11:00PM",
+    "location": "Sidecar Barley & Wine Bar, 851 W I-35 Frontage Rd, Edmond, OK 73034",
+    "description": "Sidecar East Edmond hosts Kendrik McKinney for its Thursday night music series. Enjoy a sleek cocktail lounge atmosphere with live music and a rotating schedule of local jazz talent.",
+    "dining_suggestions": [
+      "Pub W (Modern pub fare) - Just next door \u2014 burgers, salads, and rotating taps",
+      "Charleston's Edmond (American grill) - Casual classic fare just across the road",
+      "Hideaway Pizza (Local pizza favorite) - Fun, family-friendly atmosphere 5 minutes away"
+    ]
+  },
+  {
+    "event": "Elizabeth Speegle @ O Bar",
+    "date_time": "Thu, May 8 @ 7:00PM \u2014 9:00PM",
+    "location": "Tellers, 120 N. Robinson Ave, Oklahoma City, OK",
+    "description": "O Bar presents Elizabeth Speegle as part of its Female Vocalist Series. Enjoy jazz-pop fusion with a rooftop view over Midtown OKC. Extended happy hour, cocktails, and atmosphere.",
+    "dining_suggestions": [
+      "Flint (Upscale American) - Located in the Colcord Hotel across the street",
+      "Mahogany Prime Steakhouse (Classic steakhouse) - Elegant fine dining just a block away",
+      "The Hall\u2019s Pizza Kitchen (Wood-fired pizza) - Trendy multi-level pizzeria with rooftop seating"
+    ]
+  },
+  {
+    "event": "Hefner Grill Trio",
+    "date_time": "Fri, May 9 @ 6:00PM \u2014 9:00PM",
+    "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
+    "description": "Enjoy waterfront dining and live jazz by the Hefner Grill Trio, featuring rotating local musicians.",
+    "dining_suggestions": [
+      "Mama Roja (Lakeside Tex-Mex) - Festive vibes with patio views on the same marina",
+      "Redrock Canyon Grill (Southwest American) - Romantic lakeside ambiance and bold flavors",
+      "Louie\u2019s Grill & Bar (Casual American) - Lively local spot steps away from the grill"
+    ]
+  },
+  {
+    "event": "ATM Trio @ Round Midnight",
+    "date_time": "Fri, May 9 @ 7:00PM \u2014 9:00PM",
+    "location": "Round Midnight, 9 South Broadway, Edmond, Oklahoma 73034",
+    "description": "The ATM Trio brings bass, guitar, and piano to Round Midnight\u2019s intimate cocktail bar atmosphere. No cover.",
+    "dining_suggestions": [
+      "Cafe Evoke (Coffeehouse + Kitchen) - Cozy, creative food and drinks less than 5 minutes away",
+      "The Mule Edmond (Comfort food) - Gourmet grilled cheese, melts, and cocktails nearby",
+      "Hideaway Pizza (Edmond) (Family pizza chain) - Reliable favorite less than 10 min away"
+    ]
+  },
+  {
+    "event": "Logan Gorrell Quartet",
+    "date_time": "Fri, May 9 @ 8:00PM",
+    "location": "UCO Jazz Lab, 100 E 5th St, Edmond, OK 73034",
+    "description": "Join us at the UCO Jazz Lab for an evening of top-tier jazz with Logan Gorrell and his ensemble. Free admission for students; an immersive, educational live music experience.",
+    "dining_suggestions": [
+      "Cafe 501 (Rustic American bistro) - Casual, elegant eats and wine 3 min from the Lab",
+      "Othello's Italian Restaurant (Classic Italian) - Cozy, well-known Edmond staple steps away",
+      "Eischen\u2019s Bar (Historic fried chicken spot) - Lively local spot 10-12 mins out, worth the detour"
+    ]
+  },
+  {
+    "event": "Hefner Grill Trio",
+    "date_time": "Sat, May 10 @ 6:00PM \u2014 9:00PM",
+    "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
+    "description": "Enjoy the weekend edition of Hefner Grill\u2019s live jazz series while overlooking the scenic lake and savoring seafood-focused American fare.",
+    "dining_suggestions": [
+      "Redrock Canyon Grill (Southwest American) - Vibrant lakeside atmosphere just steps away",
+      "Mama Roja (Tex-Mex) - Festive flavors and views near the dock",
+      "Louie\u2019s Grill & Bar (Casual pub) - Grab burgers and beers right on the boardwalk"
+    ]
+  },
+  {
+    "event": "Vintage Vibe @ Round Midnight",
+    "date_time": "Sat, May 10 @ 7:00PM \u2014 10:00PM",
+    "location": "Round Midnight, 9 South Broadway, Edmond, Oklahoma 73034",
+    "description": "Step into the swing era with Vintage Vibe at Round Midnight \u2014 featuring Tyler Jackson and Johnny Baier. Smooth vocals, classic jazz, and an intimate lounge.",
+    "dining_suggestions": [
+      "Sparrow Modern Italian (Upscale Italian) - Perfect for a pre-show dinner just down the block",
+      "The Fixx (Upscale casual grill) - Trendy neighborhood spot with creative bites",
+      "Evoke (Artisan caf\u00e9 + kitchen) - Light fare and craft coffee, just 5 minutes away"
+    ]
+  },
+  {
+    "event": "Sam Vaughn @ Tellers Jazz Brunch",
+    "date_time": "Sun, May 11 @ 11:00AM \u2014 3:00PM",
+    "location": "Tellers, 120 N. Robinson Ave, Oklahoma City",
+    "description": "Celebrate Mother\u2019s Day with a special jazz brunch at Tellers featuring saxophonist Sam Vaughn and guitarist Mitch Bell. Enjoy world-class jazz and brunch inside the Great Hall at First National Center. Reservations encouraged.",
+    "dining_suggestions": [
+      "Cafe Cuv\u00e9e (French bistro) - Elegant spot for brunch just 2 blocks away",
+      "Kitchen No. 324 (Modern American brunch) - Bright, casual caf\u00e9 with bakery and cocktails",
+      "Flint (Upscale hotel dining) - Stylish brunch with patio and firepit nearby"
+    ]
+  },
+  {
+    "event": "Hefner Grill Jazz Brunch",
+    "date_time": "Sun, May 11 @ 11:00AM \u2014 2:00PM",
+    "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
+    "description": "Enjoy lakeside views and a laid-back jazz trio during Hefner Grill\u2019s Sunday brunch. Ideal for Mother\u2019s Day with great food and music.",
+    "dining_suggestions": [
+      "Mama Roja (Tex-Mex) - Festive brunch option by the lake",
+      "Redrock Canyon Grill (American Southwest) - Scenic and lively for Sunday family brunch",
+      "Louie\u2019s Grill & Bar (Casual pub) - Relaxed atmosphere with lake views"
+    ]
+  },
+  {
+    "event": "Nick Mancini Group @ Blue Note",
+    "date_time": "Sun, May 11 @ 7:00PM \u2014 10:00PM",
+    "location": "Blue Note, 2408 N Robinson Ave, Oklahoma City, OK",
+    "description": "Experience the cutting edge of modern jazz with vibraphonist Nick Mancini and band. Deep grooves, fearless improvisation \u2014 no cover.",
+    "dining_suggestions": [
+      "Pump Bar (Retro patio bar) - Chill spot for drinks and bar snacks around the corner",
+      "Guyutes (Funky gastro-pub) - Creative food and rooftop vibe under 10 minutes away",
+      "Cheever\u2019s Cafe (Upscale Southern fusion) - Elegant date night dining, a short drive south"
+    ]
+  },
+  {
+    "event": "Laszlo Sings Broadway @ Othellos",
+    "date_time": "Mon, May 12 @ 5:30PM",
+    "location": "Othello's of Norman, 434 Buchanan Ave, Norman, OK",
+    "description": "Celebrate the jazz/Broadway connection with Laszlo Valentine and The Lonely Hearts Club. Music by Porter, Gershwin, Rodgers & Hammerstein and more. No cover.",
+    "dining_suggestions": [
+      "The Winston (Gastropub) - Upscale New American dishes just a block away",
+      "Benvenuti's Ristorante (Classic Italian) - Romantic and authentic, a local fine-dining favorite",
+      "The Garage (Burgers & beer) - Fun, casual eats on Main Street, great for pre-show dinner"
+    ]
+  },
+  {
+    "event": "Wine Down Wednesday - The Study",
+    "date_time": "Wed, May 14 @ 6:30PM \u2014 8:30PM",
+    "location": "The Study, 701 W. Sheridan, Ste. 100, Oklahoma City, OK",
+    "description": "Midweek jazz and wine at The Study in the historic Paramount Building. $5 happy hour pours, live music, and 64 taps.",
+    "dining_suggestions": [
+      "Bar Cicchetti (Italian small plates) - Stylish vibe with craft wine list right nearby",
+      "Jones Assembly (Southern cuisine) - Live-music venue and dinner hotspot 5 minutes away",
+      "Mary Eddy's (Upscale American) - Creative eats and chic vibe inside 21c Museum Hotel"
+    ]
+  },
+  {
+    "event": "Kendrik McKinney @ Sidecar (East Edmond)",
+    "date_time": "Thu, May 15 @ 7:00PM \u2014 11:00PM",
+    "location": "Sidecar Barley & Wine Bar, 851 W I-35 Frontage Rd, Edmond, OK 73034",
+    "description": "Kendrik McKinney returns for Sidecar\u2019s Thursday jazz night. Sleek bar setting with live local music weekly.",
+    "dining_suggestions": [
+      "Pub W (Modern pub) - Great for drinks and burgers next door",
+      "Charleston\u2019s Edmond (American grill) - Reliable option across the parking lot",
+      "The Fixx (Local favorite) - Trendy Edmond spot within 10 mins drive"
+    ]
+  }
+]
