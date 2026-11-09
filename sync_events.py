@@ -139,7 +139,11 @@ def run():
         for page in range(2, last_page + 1):
             url = re.sub(r'([?&]calendar_page=)\d+', rf'\g<1>{page}', template)
             html = download(session, url)
+            LOG.info('Page %d URL: %s', page, url)
+            LOG.info('Response length: %d characters', len(html))
+            LOG.info('Response begins: %s', repr(html[:500]))
             _, events = parse_html(html, now)
+            LOG.info('Page %d parsed events: %d', page, len(events))
             if not events:
                 raise RuntimeError(f'Page {page} returned no event records; refusing partial update')
             new_count = sum(1 for e in events if e['occurrence_id'] not in found)
