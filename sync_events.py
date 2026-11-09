@@ -55,6 +55,29 @@ def to_iso(date, raw_time):
     return datetime.combine(date, t, TZ).isoformat()
 
 
+def booking_links(node, notes):
+    """Extract explicit event booking actions, never guess from venue/location links."""
+    ticket_url = reservation_url = None
+    # Bandzoogle renders ticket purchases as an independent .tickets.button link.
+    # A location anchor can also point to Eventbrite, but is NOT a ticket CTA.
+    for a in node.select('a.tickets[href], a[href]'):
+        if a.find_parent(class_='event-location'):
+            continue
+        href = (a.get('href') or '').strip()
+        if not href or href.lower().startswith(('javascript:', 'mailto:', 'tel:', '#')):
+            continue
+        resolved = urljoin(SOURCE, href)
+        if not resolved.startswith(('https://', 'http://')):
+            continue
+        label = a.get_text(' ', strip=True).lower()
+        # Only explicitly named actions or dedicated ticket controls.
+        if 'tickets' in (a.get('class') or []) or re.search(r'\b(tickets?|buy tickets?|get tickets?|admission|purchase tickets?)\b', label):
+            ticket_url = ticket_url or resolved
+        elif re.search(r'\b(reservations?|reserve (?:a )?(?:seat|table|spot)|book (?:a )?table|book now|rsvp)\b', label):
+            reservation_url = reservation_url or resolved
+    return ticket_url, reservation_url
+
+
 def parse_html(html, reference):
     # Bandzoogle paginated responses are Turbo Streams. Extract the rendered
     # HTML from <template> before parsing, while retaining ordinary page support.
@@ -88,6 +111,7 @@ def parse_html(html, reference):
         image_url = urljoin(SOURCE, image_raw) if image_raw and not image_raw.startswith('data:') else None
         notes = node.select_one('.event-notes')
         description = notes.get_text('\n', strip=True) if notes else ''
+        ticket_url, reservation_url = booking_links(node, notes)
         occurrence_id = node.get('data-occurrence-id')
         if not (title and raw_day and occurrence_id and name_link and name_link.get('href')):
             raise ValueError(f'Incomplete event occurrence {occurrence_id!r}: title={title!r}, day={raw_day!r}')
@@ -106,6 +130,8 @@ def parse_html(html, reference):
             'description': description,
             'image_url': image_url,
             'event_url': event_url,
+            'ticket_url': ticket_url,
+            'reservation_url': reservation_url,
         })
     return soup, records
 
