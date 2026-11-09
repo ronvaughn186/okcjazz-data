@@ -56,6 +56,14 @@ def to_iso(date, raw_time):
 
 
 def parse_html(html, reference):
+    # Bandzoogle paginated responses are Turbo Streams. Extract the rendered
+    # HTML from <template> before parsing, while retaining ordinary page support.
+    if re.search(r'<turbo-stream\b', html, re.IGNORECASE):
+        templates = re.findall(r'<template\b[^>]*>(.*?)</template\s*>', html,
+                               flags=re.IGNORECASE | re.DOTALL)
+        if not templates:
+            raise RuntimeError('Turbo Stream response has no template content')
+        html = '\n'.join(templates)
     soup = BeautifulSoup(html, 'html.parser')
     records = []
     for node in soup.select('.calendar_feature .event-detail, .event-detail[data-occurrence-id]'):
