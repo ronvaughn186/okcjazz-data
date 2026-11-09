@@ -74,6 +74,18 @@ def parse_html(html, reference):
         raw_end = text_of(node.select_one('.date-long time.to .time')) or text_of(node.select_one('.date-short time.to .time'))
         venue_link = node.select_one('.event-location a')
         venue_text = text_of(venue_link) or text_of(node.select_one('.event-location'))
+        # Prefer the event's own thumbnail; many Bandzoogle cards use image-social.
+        image_node = node.select_one('.event-image img, img.image-social, .event-image source')
+        image_raw = None
+        if image_node:
+            image_raw = (image_node.get('data-src') or image_node.get('src')
+                         or image_node.get('srcset', '').split(',')[0].strip().split(' ')[0])
+        # Some cards contain a featherlight image link even if the img is lazy-loaded.
+        if not image_raw:
+            image_link = node.select_one('.event-image a[data-featherlight], .event-image a[href]')
+            if image_link:
+                image_raw = image_link.get('data-featherlight') or image_link.get('href')
+        image_url = urljoin(SOURCE, image_raw) if image_raw and not image_raw.startswith('data:') else None
         notes = node.select_one('.event-notes')
         description = notes.get_text('\n', strip=True) if notes else ''
         occurrence_id = node.get('data-occurrence-id')
@@ -92,6 +104,7 @@ def parse_html(html, reference):
             'location': venue_text,
             'venue_url': urljoin(SOURCE, venue_link['href']) if venue_link and venue_link.get('href') else None,
             'description': description,
+            'image_url': image_url,
             'event_url': event_url,
         })
     return soup, records
