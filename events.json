@@ -1,26 +1,10 @@
 {
   "source": "https://okcjazz.life/shows-and-events",
-  "generated_at": "2026-11-09T20:45:41.329072-06:00",
+  "generated_at": "2026-11-10T06:41:34.432477-06:00",
   "timezone": "America/Chicago",
-  "event_count": 585,
+  "event_count": 596,
   "complete_pagination": true,
   "events": [
-    {
-      "event_id": "6798078",
-      "occurrence_id": "786836241",
-      "title": "Mitch Bell Trio @ Blue Note",
-      "date": "2026-11-08",
-      "start": "2026-11-08T20:00:00-06:00",
-      "end_time_label": "11:00PM",
-      "venue": "Blue Note OKC",
-      "location": "Blue Note OKC, 2408 N Robinson Ave, Oklahoma City, OK",
-      "venue_url": "https://okcbluenote.com/",
-      "description": "Catch the Mitch Bell Trio live at The Blue Note in OKC. The group with showcase original music by Mitch, along with re-imaginings of classic jazz standards. Join us for sets at 8:00 PM & 9:30 PM. See you there!\nNo cover",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/36cae20d771c98eccc8c307a59b4d6893fb61847/original/screenshot-2026-11-01-at-7-10-01-pm.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6798078/786836241/mitch-bell-trio-blue-note",
-      "ticket_url": null,
-      "reservation_url": null
-    },
     {
       "event_id": "6653097",
       "occurrence_id": "770907444",
@@ -32,7 +16,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907444/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -86,18 +70,18 @@
       "reservation_url": null
     },
     {
-      "event_id": "6188645",
-      "occurrence_id": "786836054",
-      "title": "The Speakeasy Jazz Night & Jam Session",
+      "event_id": "6808989",
+      "occurrence_id": "788003242",
+      "title": "Collin Ferrell @ Speakeasy Jazz Night & Jam",
       "date": "2026-11-11",
       "start": "2026-11-11T20:00:00-06:00",
       "end_time_label": null,
       "venue": "51st Street Speakeasy",
       "location": "51st Street Speakeasy, 1114 Northwest 51st Street, Oklahoma City, OK 73118",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
-      "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836054/the-speakeasy-jazz-night-jam-session",
+      "description": "Join us at The 51st St. Speakeasy for a night of world class jazz featuring OKC saxophonist, arranger, and composer Collin Ferrell, performing several of his original compositions! Bring your instrument for the late night Jazz Jam, starting after the first set around 9:30 PM.\nKendrik McKinney, host/piano\nCollin Ferrell, featured artist/sax\nNelson Gonzalez, bass\nKyle Broadbooks, drums\n8-12 | 21+\nNo cover at the door. Advance table reservations only, with limited seating. Reservation includes a table with 4-5 seats.\nBe checked in and seated by 8:15 PM. After that, tables are released to walk-in guests.",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/69f3d68472b9a6914e6fe59e1fad47475fca4863/original/original-20261110-051529.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6808989/788003242/collin-ferrell-speakeasy-jazz-night-jam",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -166,6 +150,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6808986",
+      "occurrence_id": "788003239",
+      "title": "OKC Latin Band @ Margarita Garden",
+      "date": "2026-11-13",
+      "start": "2026-11-13T21:00:00-06:00",
+      "end_time_label": null,
+      "venue": "The Margarita Garden",
+      "location": "The Margarita Garden, 1742 NW 16th St, Oklahoma City, OK 73106",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=1742%20NW%2016th%20St,%20Oklahoma%20City,%20OK%2073106",
+      "description": "Live Latin music, flowing margaritas & good times! Dance all night to salsa, bachata & merengue with plenty of room to move!\nThe Margarita Garden\nLadies free, $10 for guys\n$2 margs for ladies\n$4 margs for guys\n$5 Mexican candy shots\nGrab your dance partner and we'll see you there!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/d501c6ac4f24fbe89463f2b4f75a4ecd3d95442f/original/897215047-1102350696164454-902788180308533182-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
+      "event_url": "https://okcjazz.life/event/6808986/788003239/okc-latin-band-margarita-garden",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6782289",
       "occurrence_id": "785150063",
       "title": "Rei & The Moving Castle @ UCO Jazz Lab",
@@ -179,6 +179,38 @@
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ec024f96df95da50c52392031b31c3fb7d6c350e/original/825340612-2039677053333040-5920286337192213680-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6782289/785150063/rei-the-moving-castle-uco-jazz-lab",
       "ticket_url": "https://calendar.uco.edu/jazz-lab/event/15032-rei-the-moving-castle",
+      "reservation_url": null
+    },
+    {
+      "event_id": "6808987",
+      "occurrence_id": "788003240",
+      "title": "Laszlo Valentine Quartet",
+      "date": "2026-11-14",
+      "start": "2026-11-14T21:00:00-06:00",
+      "end_time_label": null,
+      "venue": "Gatsby: Bourbon Bar & Lounge",
+      "location": "Gatsby: Bourbon Bar & Lounge, 320 W Wilshire Blvd, Oklahoma City, OK 73116",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=320%20W%20Wilshire%20Blvd,%20Oklahoma%20City,%20OK%2073116",
+      "description": "This Saturday at Gatsby!\nLaszlo Valentine - Vocals\nEmmanuel Alaeze - Keys\nAvery Johnson - Bass\nKyle Broadbooks - Drums\n9pm-midnight",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ef3a6dac745cd2f6b2176cfe75d550e2185f0cdb/original/897608485-1164146146574339-9157276144013032742-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6808987/788003240/laszlo-valentine-quartet",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6808981",
+      "occurrence_id": "788003233",
+      "title": "Ben Patterson @ OU",
+      "date": "2026-11-15",
+      "start": null,
+      "end_time_label": null,
+      "venue": "",
+      "location": "",
+      "venue_url": null,
+      "description": "-Nov 15th @ 7-9pm: Midway Deli Jam Session\n-Nov 16th @ 8pm: Sharp Concert Hall in Catlett Music Center\nJoin us for two fantastic opportunities to witness trombone legend and composer/arranger extraordinaire Ben Patterson performing live in Oklahoma!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/fc58b12c4f1db4e436eec29ba37d42126c6b6feb/original/901397676-2012534689392025-1475245599533942239-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6808981/788003233/ben-patterson-ou",
+      "ticket_url": null,
       "reservation_url": null
     },
     {
@@ -262,6 +294,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6808981",
+      "occurrence_id": "788003234",
+      "title": "Ben Patterson @ OU",
+      "date": "2026-11-16",
+      "start": null,
+      "end_time_label": null,
+      "venue": "",
+      "location": "",
+      "venue_url": null,
+      "description": "-Nov 15th @ 7-9pm: Midway Deli Jam Session\n-Nov 16th @ 8pm: Sharp Concert Hall in Catlett Music Center\nJoin us for two fantastic opportunities to witness trombone legend and composer/arranger extraordinaire Ben Patterson performing live in Oklahoma!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/fc58b12c4f1db4e436eec29ba37d42126c6b6feb/original/901397676-2012534689392025-1475245599533942239-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6808981/788003234/ben-patterson-ou",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6653097",
       "occurrence_id": "770907445",
       "title": "Standards & Spirits @ Round Midnight",
@@ -272,7 +320,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907445/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -327,7 +375,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836055",
+      "occurrence_id": "788003243",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-11-18",
       "start": "2026-11-18T20:00:00-06:00",
@@ -337,7 +385,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836055/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003243/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -480,7 +528,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907446/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -535,7 +583,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836056",
+      "occurrence_id": "788003244",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-11-25",
       "start": "2026-11-25T20:00:00-06:00",
@@ -545,7 +593,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836056/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003244/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -630,6 +678,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6783353",
+      "occurrence_id": "785929777",
+      "title": "JTF Jazz Jam @ Midway",
+      "date": "2026-11-29",
+      "start": "2026-11-29T18:00:00-06:00",
+      "end_time_label": "8:00PM",
+      "venue": "Midway Deli",
+      "location": "Midway Deli, 601 W Eufaula Street, Norman, OK 73069",
+      "venue_url": "https://www.midwaydeli.com/",
+      "description": "Come jam with us at OU with the JTF Collective!\nALL AGES\nBi-weekly Sunday @ 6-8pm\nNov 1st\nNov 15th (ft. Ben Patterson!)\nNov 29th\nDec 13th\nBackyard at Midway Deli",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/c0234738ae6bd792a50f07ebab52ed916672d2e3/original/img-9597.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6783353/785929777/jtf-jazz-jam-midway",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6794916",
       "occurrence_id": "786448516",
       "title": "Jazz Nights @ Highball Sushi",
@@ -672,7 +736,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907447/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -727,7 +791,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836057",
+      "occurrence_id": "788003245",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-12-02",
       "start": "2026-12-02T20:00:00-06:00",
@@ -737,7 +801,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836057/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003245/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -896,7 +960,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907448/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -951,7 +1015,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836058",
+      "occurrence_id": "788003246",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-12-09",
       "start": "2026-12-09T20:00:00-06:00",
@@ -961,7 +1025,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836058/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003246/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -1104,7 +1168,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907449/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -1159,7 +1223,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836059",
+      "occurrence_id": "788003247",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-12-16",
       "start": "2026-12-16T20:00:00-06:00",
@@ -1169,7 +1233,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836059/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003247/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -1328,7 +1392,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907450/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -1383,7 +1447,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836060",
+      "occurrence_id": "788003248",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-12-23",
       "start": "2026-12-23T20:00:00-06:00",
@@ -1393,7 +1457,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836060/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003248/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -1520,7 +1584,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907451/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -1575,7 +1639,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836061",
+      "occurrence_id": "788003249",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-12-30",
       "start": "2026-12-30T20:00:00-06:00",
@@ -1585,7 +1649,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836061/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003249/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -1744,7 +1808,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907452/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -1799,7 +1863,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836062",
+      "occurrence_id": "788003250",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-01-06",
       "start": "2027-01-06T20:00:00-06:00",
@@ -1809,7 +1873,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836062/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003250/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -1910,6 +1974,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6794916",
+      "occurrence_id": "786448522",
+      "title": "Jazz Nights @ Highball Sushi",
+      "date": "2027-01-10",
+      "start": "2027-01-10T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Highball Sushi + Kitchen",
+      "location": "Highball Sushi + Kitchen, 808 N Broadway Ave, Oklahoma City, OK 73102",
+      "venue_url": "https://www.highballokc.com/",
+      "description": "Join us on Sundays for Live Jazz at Highball!\nLineup for Nov & Dec:\nNov. 1 - KC White Trio\nNov. 8 - KC White Trio\nNov. 15 - Mitch Bell Trio\nNov. 22 - Marcus Upshaw Trio\nNov. 29 - Marcus Upshaw Trio\nDec. 6 - Mitch Bell Trio\nJoin us in downtown OKC for Live Jazz and happy hour!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f757fc4377313ca6c74933ad54a2dc6cced628a0/original/screenshot-2026-10-29-at-3-14-40-pm.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
+      "event_url": "https://okcjazz.life/event/6794916/786448522/jazz-nights-highball-sushi",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6137830",
       "occurrence_id": "786186999",
       "title": "Blue Note Jazz Night",
@@ -1936,7 +2016,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907453/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -1991,7 +2071,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836063",
+      "occurrence_id": "788003251",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-01-13",
       "start": "2027-01-13T20:00:00-06:00",
@@ -2001,7 +2081,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836063/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003251/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2128,7 +2208,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907454/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -2183,7 +2263,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836064",
+      "occurrence_id": "788003252",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-01-20",
       "start": "2027-01-20T20:00:00-06:00",
@@ -2193,7 +2273,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836064/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003252/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2336,7 +2416,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907455/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -2391,7 +2471,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836065",
+      "occurrence_id": "788003253",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-01-27",
       "start": "2027-01-27T20:00:00-06:00",
@@ -2401,7 +2481,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836065/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003253/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2528,8 +2608,24 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907456/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6725246",
+      "occurrence_id": "778920828",
+      "title": "Solo Guitar @ Hefner Grill",
+      "date": "2027-02-03",
+      "start": "2027-02-03T18:00:00-06:00",
+      "end_time_label": "8:00PM",
+      "venue": "Hefner Grill",
+      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
+      "venue_url": "https://hefnergrill.com/",
+      "description": "Enjoy an evening of live solo jazz guitar featuring Kevin Webb, each Wednesday night from 6-8pm at Hefner Grill!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9edd0f46cf8f4888865d73033793c0fc78c272f8/original/370272110-10226304644295725-8049155252665302362-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
+      "event_url": "https://okcjazz.life/event/6725246/778920828/solo-guitar-hefner-grill",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2567,7 +2663,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836066",
+      "occurrence_id": "788003254",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-02-03",
       "start": "2027-02-03T20:00:00-06:00",
@@ -2577,7 +2673,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836066/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003254/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2752,7 +2848,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907457/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -2807,7 +2903,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836067",
+      "occurrence_id": "788003255",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-02-10",
       "start": "2027-02-10T20:00:00-06:00",
@@ -2817,7 +2913,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836067/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003255/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2944,7 +3040,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907458/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -2999,7 +3095,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836068",
+      "occurrence_id": "788003256",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-02-17",
       "start": "2027-02-17T20:00:00-06:00",
@@ -3009,7 +3105,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836068/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003256/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3152,8 +3248,24 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907459/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6725246",
+      "occurrence_id": "778920831",
+      "title": "Solo Guitar @ Hefner Grill",
+      "date": "2027-02-24",
+      "start": "2027-02-24T18:00:00-06:00",
+      "end_time_label": "8:00PM",
+      "venue": "Hefner Grill",
+      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
+      "venue_url": "https://hefnergrill.com/",
+      "description": "Enjoy an evening of live solo jazz guitar featuring Kevin Webb, each Wednesday night from 6-8pm at Hefner Grill!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9edd0f46cf8f4888865d73033793c0fc78c272f8/original/370272110-10226304644295725-8049155252665302362-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
+      "event_url": "https://okcjazz.life/event/6725246/778920831/solo-guitar-hefner-grill",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3191,7 +3303,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836069",
+      "occurrence_id": "788003257",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-02-24",
       "start": "2027-02-24T20:00:00-06:00",
@@ -3201,7 +3313,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836069/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003257/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3328,7 +3440,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907460/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -3383,7 +3495,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836070",
+      "occurrence_id": "788003258",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-03-03",
       "start": "2027-03-03T20:00:00-06:00",
@@ -3393,7 +3505,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836070/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003258/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3584,7 +3696,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907461/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -3639,7 +3751,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836071",
+      "occurrence_id": "788003259",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-03-10",
       "start": "2027-03-10T20:00:00-06:00",
@@ -3649,7 +3761,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836071/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003259/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3776,8 +3888,24 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907462/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6725246",
+      "occurrence_id": "778920834",
+      "title": "Solo Guitar @ Hefner Grill",
+      "date": "2027-03-17",
+      "start": "2027-03-17T18:00:00-05:00",
+      "end_time_label": "8:00PM",
+      "venue": "Hefner Grill",
+      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
+      "venue_url": "https://hefnergrill.com/",
+      "description": "Enjoy an evening of live solo jazz guitar featuring Kevin Webb, each Wednesday night from 6-8pm at Hefner Grill!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9edd0f46cf8f4888865d73033793c0fc78c272f8/original/370272110-10226304644295725-8049155252665302362-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
+      "event_url": "https://okcjazz.life/event/6725246/778920834/solo-guitar-hefner-grill",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3815,7 +3943,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836072",
+      "occurrence_id": "788003260",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-03-17",
       "start": "2027-03-17T20:00:00-05:00",
@@ -3825,7 +3953,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836072/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003260/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3968,7 +4096,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907463/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -4023,7 +4151,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836073",
+      "occurrence_id": "788003261",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-03-24",
       "start": "2027-03-24T20:00:00-05:00",
@@ -4033,7 +4161,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836073/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003261/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4160,7 +4288,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907464/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -4215,7 +4343,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836074",
+      "occurrence_id": "788003262",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-03-31",
       "start": "2027-03-31T20:00:00-05:00",
@@ -4225,7 +4353,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836074/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003262/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4342,22 +4470,6 @@
       "reservation_url": null
     },
     {
-      "event_id": "6783353",
-      "occurrence_id": "785929786",
-      "title": "JTF Jazz Jam @ Midway",
-      "date": "2027-04-04",
-      "start": "2027-04-04T18:00:00-05:00",
-      "end_time_label": "8:00PM",
-      "venue": "Midway Deli",
-      "location": "Midway Deli, 601 W Eufaula Street, Norman, OK 73069",
-      "venue_url": "https://www.midwaydeli.com/",
-      "description": "Come jam with us at OU with the JTF Collective!\nALL AGES\nBi-weekly Sunday @ 6-8pm\nNov 1st\nNov 15th (ft. Ben Patterson!)\nNov 29th\nDec 13th\nBackyard at Midway Deli",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/c0234738ae6bd792a50f07ebab52ed916672d2e3/original/img-9597.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6783353/785929786/jtf-jazz-jam-midway",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
       "event_id": "6794916",
       "occurrence_id": "786448534",
       "title": "Jazz Nights @ Highball Sushi",
@@ -4400,8 +4512,24 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907465/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6725246",
+      "occurrence_id": "778920837",
+      "title": "Solo Guitar @ Hefner Grill",
+      "date": "2027-04-07",
+      "start": "2027-04-07T18:00:00-05:00",
+      "end_time_label": "8:00PM",
+      "venue": "Hefner Grill",
+      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
+      "venue_url": "https://hefnergrill.com/",
+      "description": "Enjoy an evening of live solo jazz guitar featuring Kevin Webb, each Wednesday night from 6-8pm at Hefner Grill!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9edd0f46cf8f4888865d73033793c0fc78c272f8/original/370272110-10226304644295725-8049155252665302362-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
+      "event_url": "https://okcjazz.life/event/6725246/778920837/solo-guitar-hefner-grill",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4439,7 +4567,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836075",
+      "occurrence_id": "788003263",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-04-07",
       "start": "2027-04-07T20:00:00-05:00",
@@ -4449,7 +4577,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836075/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003263/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4576,7 +4704,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907466/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -4631,7 +4759,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836076",
+      "occurrence_id": "788003264",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-04-14",
       "start": "2027-04-14T20:00:00-05:00",
@@ -4641,7 +4769,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836076/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003264/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4784,7 +4912,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907467/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -4839,7 +4967,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836077",
+      "occurrence_id": "788003265",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-04-21",
       "start": "2027-04-21T20:00:00-05:00",
@@ -4849,7 +4977,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836077/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003265/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4976,7 +5104,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907468/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -5031,7 +5159,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836078",
+      "occurrence_id": "788003266",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-04-28",
       "start": "2027-04-28T20:00:00-05:00",
@@ -5041,7 +5169,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836078/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003266/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -5200,7 +5328,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907469/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -5255,7 +5383,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836079",
+      "occurrence_id": "788003267",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-05-05",
       "start": "2027-05-05T20:00:00-05:00",
@@ -5265,7 +5393,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836079/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003267/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -5408,7 +5536,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907470/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -5463,7 +5591,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836080",
+      "occurrence_id": "788003268",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-05-12",
       "start": "2027-05-12T20:00:00-05:00",
@@ -5473,7 +5601,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836080/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003268/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -5616,7 +5744,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907471/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -5666,6 +5794,22 @@
       "description": "Every week @ 7:00PM\nUnwind at BURN with Jazz Wednesdays, featuring guitarist/vocalist Noah Engh and his trio! Enjoy an evening of live music, elevated cocktails, and world-class cigars in OKC's most sophisticated lounge!",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9076f9c96ac15a002fd463d32e194a2cd7307dbb/original/270051475-4716647361782173-4012186389120143116-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6634356/768849147/noah-engh-trio-burn",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6188645",
+      "occurrence_id": "788003269",
+      "title": "The Speakeasy Jazz Night & Jam Session",
+      "date": "2027-05-19",
+      "start": "2027-05-19T20:00:00-05:00",
+      "end_time_label": null,
+      "venue": "51st Street Speakeasy",
+      "location": "51st Street Speakeasy, 1114 Northwest 51st Street, Oklahoma City, OK 73118",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
+      "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6188645/788003269/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -5792,7 +5936,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907472/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -5847,7 +5991,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836082",
+      "occurrence_id": "788003270",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-05-26",
       "start": "2027-05-26T20:00:00-05:00",
@@ -5857,7 +6001,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836082/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003270/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6000,7 +6144,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907473/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -6055,7 +6199,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836083",
+      "occurrence_id": "788003271",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-06-02",
       "start": "2027-06-02T20:00:00-05:00",
@@ -6065,7 +6209,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836083/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003271/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6224,7 +6368,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907474/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -6279,7 +6423,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836084",
+      "occurrence_id": "788003272",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-06-09",
       "start": "2027-06-09T20:00:00-05:00",
@@ -6289,7 +6433,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836084/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003272/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6432,7 +6576,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907475/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -6487,7 +6631,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836085",
+      "occurrence_id": "788003273",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-06-16",
       "start": "2027-06-16T20:00:00-05:00",
@@ -6497,7 +6641,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836085/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003273/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6624,7 +6768,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907476/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -6663,7 +6807,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836086",
+      "occurrence_id": "788003274",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-06-23",
       "start": "2027-06-23T20:00:00-05:00",
@@ -6673,7 +6817,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836086/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003274/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6816,7 +6960,7 @@
       "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907477/standards-spirits-round-midnight",
       "ticket_url": null,
       "reservation_url": null
@@ -6855,7 +6999,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836087",
+      "occurrence_id": "788003275",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-06-30",
       "start": "2027-06-30T20:00:00-05:00",
@@ -6865,7 +7009,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836087/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003275/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7031,7 +7175,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836088",
+      "occurrence_id": "788003276",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-07-07",
       "start": "2027-07-07T20:00:00-05:00",
@@ -7041,7 +7185,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836088/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003276/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7191,7 +7335,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836089",
+      "occurrence_id": "788003277",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-07-14",
       "start": "2027-07-14T20:00:00-05:00",
@@ -7201,7 +7345,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836089/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003277/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7335,7 +7479,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836090",
+      "occurrence_id": "788003278",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-07-21",
       "start": "2027-07-21T20:00:00-05:00",
@@ -7345,7 +7489,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836090/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003278/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7495,7 +7639,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836091",
+      "occurrence_id": "788003279",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-07-28",
       "start": "2027-07-28T20:00:00-05:00",
@@ -7505,7 +7649,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836091/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003279/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7570,6 +7714,22 @@
       "description": "Join us at Tellers every Sunday from 11am-3pm for a classy Sunday brunch experience, featuring some of OKC's finest jazz musicians!\nLocated in The Great Hall at the First National Center in Downtown OKC, the TELLERS restaurant is THE premier experience in Oklahoma City! From the grand architecture to the world class food and beverages, TELLERS is a must experience sensory delight.\nEnjoy brunch classics like Eggs Benedict, Lemon Buttermilk Pancakes and Italian favorites from the wood-fired grill. Enjoy live jazz music while sipping on sparkling and signature brunch cocktails.\nReservations encouraged:\nhttps://www.tellersokc.com/",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/6ce8c6348b4507fb2012c88b0154fecc9a03ab00/original/tellers-logo.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/5598614/786187077/tellers-jazz-brunch",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6663503",
+      "occurrence_id": "772067704",
+      "title": "Maurice Johnson @ Sergio's",
+      "date": "2027-08-01",
+      "start": "2027-08-01T12:00:00-05:00",
+      "end_time_label": "2:00PM",
+      "venue": "Sergio's Italian Bistro",
+      "location": "Sergio's Italian Bistro, 104 East Gray Street, Norman, OK",
+      "venue_url": "https://okcjazz.life/www.sergiositalianbistro.com",
+      "description": "Sit back and enjoy the jazz guitar stylings of Maurice Johnson for Sunday Brunch - on the first Sunday of every month from 12:00-2:00PM!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ffb102d5199675e34a3d9a5181d209a9b9ccf4d2/original/screenshot-2026-07-10-at-5-02-45-pm.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
+      "event_url": "https://okcjazz.life/event/6663503/772067704/maurice-johnson-sergio-s",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7639,7 +7799,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836092",
+      "occurrence_id": "788003280",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-08-04",
       "start": "2027-08-04T20:00:00-05:00",
@@ -7649,7 +7809,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836092/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003280/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7815,7 +7975,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836093",
+      "occurrence_id": "788003281",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-08-11",
       "start": "2027-08-11T20:00:00-05:00",
@@ -7825,7 +7985,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836093/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003281/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7959,7 +8119,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836094",
+      "occurrence_id": "788003282",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-08-18",
       "start": "2027-08-18T20:00:00-05:00",
@@ -7969,7 +8129,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836094/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003282/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8119,7 +8279,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836095",
+      "occurrence_id": "788003283",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-08-25",
       "start": "2027-08-25T20:00:00-05:00",
@@ -8129,7 +8289,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836095/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003283/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8263,7 +8423,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836096",
+      "occurrence_id": "788003284",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-09-01",
       "start": "2027-09-01T20:00:00-05:00",
@@ -8273,7 +8433,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836096/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003284/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8423,7 +8583,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836097",
+      "occurrence_id": "788003285",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-09-08",
       "start": "2027-09-08T20:00:00-05:00",
@@ -8433,7 +8593,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836097/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003285/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8535,7 +8695,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836098",
+      "occurrence_id": "788003286",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-09-15",
       "start": "2027-09-15T20:00:00-05:00",
@@ -8545,7 +8705,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836098/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003286/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8663,7 +8823,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836099",
+      "occurrence_id": "788003287",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-09-22",
       "start": "2027-09-22T20:00:00-05:00",
@@ -8673,7 +8833,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836099/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003287/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8775,7 +8935,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836100",
+      "occurrence_id": "788003288",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-09-29",
       "start": "2027-09-29T20:00:00-05:00",
@@ -8785,7 +8945,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836100/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003288/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8919,7 +9079,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836101",
+      "occurrence_id": "788003289",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-10-06",
       "start": "2027-10-06T20:00:00-05:00",
@@ -8929,7 +9089,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836101/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003289/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9031,7 +9191,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836102",
+      "occurrence_id": "788003290",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-10-13",
       "start": "2027-10-13T20:00:00-05:00",
@@ -9041,7 +9201,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836102/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003290/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9094,22 +9254,6 @@
       "reservation_url": null
     },
     {
-      "event_id": "6783353",
-      "occurrence_id": "785929800",
-      "title": "JTF Jazz Jam @ Midway",
-      "date": "2027-10-17",
-      "start": "2027-10-17T18:00:00-05:00",
-      "end_time_label": "8:00PM",
-      "venue": "Midway Deli",
-      "location": "Midway Deli, 601 W Eufaula Street, Norman, OK 73069",
-      "venue_url": "https://www.midwaydeli.com/",
-      "description": "Come jam with us at OU with the JTF Collective!\nALL AGES\nBi-weekly Sunday @ 6-8pm\nNov 1st\nNov 15th (ft. Ben Patterson!)\nNov 29th\nDec 13th\nBackyard at Midway Deli",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/c0234738ae6bd792a50f07ebab52ed916672d2e3/original/img-9597.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6783353/785929800/jtf-jazz-jam-midway",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
       "event_id": "6794916",
       "occurrence_id": "786448562",
       "title": "Jazz Nights @ Highball Sushi",
@@ -9154,6 +9298,22 @@
       "description": "Treat yourself to a relaxing evening of fine wine and excellent live music - every week on Wednesday night from 6:30-8:30pm at The Study!\nThe Study is a Wine Bar (and Wednesday night Jazz Lounge) located in the historic Paramount Building in the West Village District of OKC. Situated on the corner of Sheridan and Lee Ave, The Study is a truly unique, 64 tap, wine bar that you must experience!\nHappy Hour = $5 Glasses from 4-7pm!\nJoin us for an evening of Jazz/Swing Music and Wine as we chase your mid-week blues away.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/7bb353ac1da98d60c5ee1ae4f7213607c6e0fa2c/original/study-graphic.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/5918407/785150155/wine-down-wednesday-the-study",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6188645",
+      "occurrence_id": "788003291",
+      "title": "The Speakeasy Jazz Night & Jam Session",
+      "date": "2027-10-20",
+      "start": "2027-10-20T20:00:00-05:00",
+      "end_time_label": null,
+      "venue": "51st Street Speakeasy",
+      "location": "51st Street Speakeasy, 1114 Northwest 51st Street, Oklahoma City, OK 73118",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
+      "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6188645/788003291/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9239,7 +9399,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836104",
+      "occurrence_id": "788003292",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-10-27",
       "start": "2027-10-27T20:00:00-05:00",
@@ -9249,7 +9409,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836104/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003292/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9303,7 +9463,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "786836105",
+      "occurrence_id": "788003293",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-11-03",
       "start": "2027-11-03T20:00:00-05:00",
@@ -9313,7 +9473,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836105/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788003293/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9362,6 +9522,22 @@
       "description": "Join us every Friday night from 8-10pm for an excellent night of live music from a rotating schedule of the city's finest musicians as you enjoy refreshing cocktails and delightfully classy and cozy atmosphere!\n(No Cover)",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/d5e4a2687debb6495522a87e1a7dfe247175a708/original/733746993-892040603268521-1728202207397036474-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6009869/786836485/friday-night-jazz-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6188645",
+      "occurrence_id": "788003294",
+      "title": "The Speakeasy Jazz Night & Jam Session",
+      "date": "2027-11-10",
+      "start": "2027-11-10T20:00:00-06:00",
+      "end_time_label": null,
+      "venue": "51st Street Speakeasy",
+      "location": "51st Street Speakeasy, 1114 Northwest 51st Street, Oklahoma City, OK 73118",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
+      "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6188645/788003294/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     }
