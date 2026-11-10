@@ -1,8 +1,8 @@
 {
   "source": "https://okcjazz.life/shows-and-events",
-  "generated_at": "2026-11-09T16:42:37.216970-06:00",
+  "generated_at": "2026-11-09T20:45:41.329072-06:00",
   "timezone": "America/Chicago",
-  "event_count": 592,
+  "event_count": 585,
   "complete_pagination": true,
   "events": [
     {
@@ -2534,22 +2534,6 @@
       "reservation_url": null
     },
     {
-      "event_id": "6725246",
-      "occurrence_id": "778920828",
-      "title": "Solo Guitar @ Hefner Grill",
-      "date": "2027-02-03",
-      "start": "2027-02-03T18:00:00-06:00",
-      "end_time_label": "8:00PM",
-      "venue": "Hefner Grill",
-      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
-      "venue_url": "https://hefnergrill.com/",
-      "description": "Enjoy an evening of live solo jazz guitar featuring Kevin Webb, each Wednesday night from 6-8pm at Hefner Grill!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9edd0f46cf8f4888865d73033793c0fc78c272f8/original/370272110-10226304644295725-8049155252665302362-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6725246/778920828/solo-guitar-hefner-grill",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
       "event_id": "5918407",
       "occurrence_id": "785150118",
       "title": "Wine Down Wednesday @ The Study",
@@ -3170,22 +3154,6 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907459/standards-spirits-round-midnight",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
-      "event_id": "6725246",
-      "occurrence_id": "778920831",
-      "title": "Solo Guitar @ Hefner Grill",
-      "date": "2027-02-24",
-      "start": "2027-02-24T18:00:00-06:00",
-      "end_time_label": "8:00PM",
-      "venue": "Hefner Grill",
-      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
-      "venue_url": "https://hefnergrill.com/",
-      "description": "Enjoy an evening of live solo jazz guitar featuring Kevin Webb, each Wednesday night from 6-8pm at Hefner Grill!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9edd0f46cf8f4888865d73033793c0fc78c272f8/original/370272110-10226304644295725-8049155252665302362-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6725246/778920831/solo-guitar-hefner-grill",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3814,22 +3782,6 @@
       "reservation_url": null
     },
     {
-      "event_id": "6725246",
-      "occurrence_id": "778920834",
-      "title": "Solo Guitar @ Hefner Grill",
-      "date": "2027-03-17",
-      "start": "2027-03-17T18:00:00-05:00",
-      "end_time_label": "8:00PM",
-      "venue": "Hefner Grill",
-      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
-      "venue_url": "https://hefnergrill.com/",
-      "description": "Enjoy an evening of live solo jazz guitar featuring Kevin Webb, each Wednesday night from 6-8pm at Hefner Grill!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9edd0f46cf8f4888865d73033793c0fc78c272f8/original/370272110-10226304644295725-8049155252665302362-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6725246/778920834/solo-guitar-hefner-grill",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
       "event_id": "5918407",
       "occurrence_id": "785150124",
       "title": "Wine Down Wednesday @ The Study",
@@ -4450,22 +4402,6 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f1359827f32f884273573142b58c466bbc55f341/original/772760174-2518073261994233-2013010175636860638-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907465/standards-spirits-round-midnight",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
-      "event_id": "6725246",
-      "occurrence_id": "778920837",
-      "title": "Solo Guitar @ Hefner Grill",
-      "date": "2027-04-07",
-      "start": "2027-04-07T18:00:00-05:00",
-      "end_time_label": "8:00PM",
-      "venue": "Hefner Grill",
-      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
-      "venue_url": "https://hefnergrill.com/",
-      "description": "Enjoy an evening of live solo jazz guitar featuring Kevin Webb, each Wednesday night from 6-8pm at Hefner Grill!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9edd0f46cf8f4888865d73033793c0fc78c272f8/original/370272110-10226304644295725-8049155252665302362-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6725246/778920837/solo-guitar-hefner-grill",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -5730,22 +5666,6 @@
       "description": "Every week @ 7:00PM\nUnwind at BURN with Jazz Wednesdays, featuring guitarist/vocalist Noah Engh and his trio! Enjoy an evening of live music, elevated cocktails, and world-class cigars in OKC's most sophisticated lounge!",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9076f9c96ac15a002fd463d32e194a2cd7307dbb/original/270051475-4716647361782173-4012186389120143116-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6634356/768849147/noah-engh-trio-burn",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
-      "event_id": "6188645",
-      "occurrence_id": "786836081",
-      "title": "The Speakeasy Jazz Night & Jam Session",
-      "date": "2027-05-19",
-      "start": "2027-05-19T20:00:00-05:00",
-      "end_time_label": null,
-      "venue": "51st Street Speakeasy",
-      "location": "51st Street Speakeasy, 1114 Northwest 51st Street, Oklahoma City, OK 73118",
-      "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
-      "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836081/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7654,22 +7574,6 @@
       "reservation_url": null
     },
     {
-      "event_id": "6663503",
-      "occurrence_id": "772067704",
-      "title": "Maurice Johnson @ Sergio's",
-      "date": "2027-08-01",
-      "start": "2027-08-01T12:00:00-05:00",
-      "end_time_label": "2:00PM",
-      "venue": "Sergio's Italian Bistro",
-      "location": "Sergio's Italian Bistro, 104 East Gray Street, Norman, OK",
-      "venue_url": "https://okcjazz.life/www.sergiositalianbistro.com",
-      "description": "Sit back and enjoy the jazz guitar stylings of Maurice Johnson for Sunday Brunch - on the first Sunday of every month from 12:00-2:00PM!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ffb102d5199675e34a3d9a5181d209a9b9ccf4d2/original/screenshot-2026-07-10-at-5-02-45-pm.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6663503/772067704/maurice-johnson-sergio-s",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
       "event_id": "6794916",
       "occurrence_id": "786448551",
       "title": "Jazz Nights @ Highball Sushi",
@@ -9250,22 +9154,6 @@
       "description": "Treat yourself to a relaxing evening of fine wine and excellent live music - every week on Wednesday night from 6:30-8:30pm at The Study!\nThe Study is a Wine Bar (and Wednesday night Jazz Lounge) located in the historic Paramount Building in the West Village District of OKC. Situated on the corner of Sheridan and Lee Ave, The Study is a truly unique, 64 tap, wine bar that you must experience!\nHappy Hour = $5 Glasses from 4-7pm!\nJoin us for an evening of Jazz/Swing Music and Wine as we chase your mid-week blues away.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/7bb353ac1da98d60c5ee1ae4f7213607c6e0fa2c/original/study-graphic.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/5918407/785150155/wine-down-wednesday-the-study",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
-      "event_id": "6188645",
-      "occurrence_id": "786836103",
-      "title": "The Speakeasy Jazz Night & Jam Session",
-      "date": "2027-10-20",
-      "start": "2027-10-20T20:00:00-05:00",
-      "end_time_label": null,
-      "venue": "51st Street Speakeasy",
-      "location": "51st Street Speakeasy, 1114 Northwest 51st Street, Oklahoma City, OK 73118",
-      "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
-      "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/786836103/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
