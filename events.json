@@ -1,8 +1,8 @@
 {
   "source": "https://okcjazz.life/shows-and-events",
-  "generated_at": "2026-11-10T06:41:34.432477-06:00",
+  "generated_at": "2026-11-10T15:49:46.304046-06:00",
   "timezone": "America/Chicago",
-  "event_count": 596,
+  "event_count": 597,
   "complete_pagination": true,
   "events": [
     {
@@ -82,7 +82,7 @@
       "description": "Join us at The 51st St. Speakeasy for a night of world class jazz featuring OKC saxophonist, arranger, and composer Collin Ferrell, performing several of his original compositions! Bring your instrument for the late night Jazz Jam, starting after the first set around 9:30 PM.\nKendrik McKinney, host/piano\nCollin Ferrell, featured artist/sax\nNelson Gonzalez, bass\nKyle Broadbooks, drums\n8-12 | 21+\nNo cover at the door. Advance table reservations only, with limited seating. Reservation includes a table with 4-5 seats.\nBe checked in and seated by 8:15 PM. After that, tables are released to walk-in guests.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/69f3d68472b9a6914e6fe59e1fad47475fca4863/original/original-20261110-051529.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6808989/788003242/collin-ferrell-speakeasy-jazz-night-jam",
-      "ticket_url": null,
+      "ticket_url": "https://www.eventbrite.com/e/the-speakeasy-jazz-night-presents-collin-ferrell-w-kendrik-mckinney-trio-tickets-2004634083507",
       "reservation_url": null
     },
     {
@@ -4466,6 +4466,22 @@
       "description": "Join us at the backyard of Yellow Dog each Sunday from 12-2pm for brunch with saxophonist Trevor Galvin and his all-star band!",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/82319342fa6772e6f254132899bf26c4babf0d0d/original/738143025-1618776966922382-6715280870304500920-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6655334/771164927/trevor-galvin-friends-yellow-dog",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6783353",
+      "occurrence_id": "785929786",
+      "title": "JTF Jazz Jam @ Midway",
+      "date": "2027-04-04",
+      "start": "2027-04-04T18:00:00-05:00",
+      "end_time_label": "8:00PM",
+      "venue": "Midway Deli",
+      "location": "Midway Deli, 601 W Eufaula Street, Norman, OK 73069",
+      "venue_url": "https://www.midwaydeli.com/",
+      "description": "Come jam with us at OU with the JTF Collective!\nALL AGES\nBi-weekly Sunday @ 6-8pm\nNov 1st\nNov 15th (ft. Ben Patterson!)\nNov 29th\nDec 13th\nBackyard at Midway Deli",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/c0234738ae6bd792a50f07ebab52ed916672d2e3/original/img-9597.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6783353/785929786/jtf-jazz-jam-midway",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9254,18 +9270,18 @@
       "reservation_url": null
     },
     {
-      "event_id": "6794916",
-      "occurrence_id": "786448562",
-      "title": "Jazz Nights @ Highball Sushi",
+      "event_id": "6783353",
+      "occurrence_id": "785929800",
+      "title": "JTF Jazz Jam @ Midway",
       "date": "2027-10-17",
       "start": "2027-10-17T18:00:00-05:00",
-      "end_time_label": "9:00PM",
-      "venue": "Highball Sushi + Kitchen",
-      "location": "Highball Sushi + Kitchen, 808 N Broadway Ave, Oklahoma City, OK 73102",
-      "venue_url": "https://www.highballokc.com/",
-      "description": "Join us on Sundays for Live Jazz at Highball!\nLineup for Nov & Dec:\nNov. 1 - KC White Trio\nNov. 8 - KC White Trio\nNov. 15 - Mitch Bell Trio\nNov. 22 - Marcus Upshaw Trio\nNov. 29 - Marcus Upshaw Trio\nDec. 6 - Mitch Bell Trio\nJoin us in downtown OKC for Live Jazz and happy hour!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f757fc4377313ca6c74933ad54a2dc6cced628a0/original/screenshot-2026-10-29-at-3-14-40-pm.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6794916/786448562/jazz-nights-highball-sushi",
+      "end_time_label": "8:00PM",
+      "venue": "Midway Deli",
+      "location": "Midway Deli, 601 W Eufaula Street, Norman, OK 73069",
+      "venue_url": "https://www.midwaydeli.com/",
+      "description": "Come jam with us at OU with the JTF Collective!\nALL AGES\nBi-weekly Sunday @ 6-8pm\nNov 1st\nNov 15th (ft. Ben Patterson!)\nNov 29th\nDec 13th\nBackyard at Midway Deli",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/c0234738ae6bd792a50f07ebab52ed916672d2e3/original/img-9597.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6783353/785929800/jtf-jazz-jam-midway",
       "ticket_url": null,
       "reservation_url": null
     },
