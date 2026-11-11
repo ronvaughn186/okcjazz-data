@@ -1,26 +1,10 @@
 {
   "source": "https://okcjazz.life/shows-and-events",
-  "generated_at": "2026-11-11T10:12:35.362775-06:00",
+  "generated_at": "2026-11-11T16:42:44.869404-06:00",
   "timezone": "America/Chicago",
   "event_count": 597,
   "complete_pagination": true,
   "events": [
-    {
-      "event_id": "6653097",
-      "occurrence_id": "770907444",
-      "title": "Standards & Spirits @ Round Midnight",
-      "date": "2026-11-10",
-      "start": "2026-11-10T19:00:00-06:00",
-      "end_time_label": "9:00PM",
-      "venue": "Round Midnight Bar and Jazz Lounge",
-      "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
-      "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
-      "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6653097/770907444/standards-spirits-round-midnight",
-      "ticket_url": null,
-      "reservation_url": null
-    },
     {
       "event_id": "6725246",
       "occurrence_id": "778920816",
@@ -3186,6 +3170,22 @@
       "description": "Join us at the backyard of Yellow Dog each Sunday from 12-2pm for brunch with saxophonist Trevor Galvin and his all-star band!",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/82319342fa6772e6f254132899bf26c4babf0d0d/original/738143025-1618776966922382-6715280870304500920-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6655334/771164921/trevor-galvin-friends-yellow-dog",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6783353",
+      "occurrence_id": "785929783",
+      "title": "JTF Jazz Jam @ Midway",
+      "date": "2027-02-21",
+      "start": "2027-02-21T18:00:00-06:00",
+      "end_time_label": "8:00PM",
+      "venue": "Midway Deli",
+      "location": "Midway Deli, 601 W Eufaula Street, Norman, OK 73069",
+      "venue_url": "https://www.midwaydeli.com/",
+      "description": "Come jam with us at OU with the JTF Collective!\nALL AGES\nBi-weekly Sunday @ 6-8pm\nNov 1st\nNov 15th (ft. Ben Patterson!)\nNov 29th\nDec 13th\nBackyard at Midway Deli",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/c0234738ae6bd792a50f07ebab52ed916672d2e3/original/img-9597.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6783353/785929783/jtf-jazz-jam-midway",
       "ticket_url": null,
       "reservation_url": null
     },
