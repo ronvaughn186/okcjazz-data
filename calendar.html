@@ -52,4 +52,31 @@ function mode(m){state.mode=m;state.selected=null;state.limit=24;const d=m==='to
 $('weekStrip').addEventListener('click',e=>{let b=e.target.closest('[data-date]');if(b)selectDate(b.dataset.date)});$('calendar').addEventListener('click',e=>{let b=e.target.closest('[data-date]');if(b){selectDate(b.dataset.date);$('calendar').classList.remove('open');$('toggleMonth').setAttribute('aria-expanded','false');$('toggleMonth').textContent='▦ Full month ▾'}});$('prev').addEventListener('click',()=>{state.week=plus(state.week,-7);state.month=plus(state.week,3).slice(0,7);renderWeek();renderMonth()});$('next').addEventListener('click',()=>{state.week=plus(state.week,7);state.month=plus(state.week,3).slice(0,7);renderWeek();renderMonth()});$('today').addEventListener('click',()=>mode('today'));$('toggleMonth').addEventListener('click',()=>{let open=$('calendar').classList.toggle('open');$('toggleMonth').setAttribute('aria-expanded',String(open));$('toggleMonth').textContent=open?'▦ Hide month ▴':'▦ Full month ▾'});$('filterToggle').addEventListener('click',()=>{let open=$('filters').classList.toggle('open');$('filterToggle').setAttribute('aria-expanded',String(open))});document.querySelectorAll('[data-mode]').forEach(b=>b.addEventListener('click',()=>mode(b.dataset.mode)));$('search').addEventListener('input',e=>{state.term=e.target.value.trim().toLowerCase();state.limit=24;renderEvents()});$('area').addEventListener('change',e=>{state.area=e.target.value;state.limit=24;renderEvents()});$('venue').addEventListener('change',e=>{state.venue=e.target.value;state.limit=24;renderEvents()});$('more').addEventListener('click',()=>{state.limit+=24;renderEvents()});
 state.week=weekStart(ct());state.month=ct().slice(0,7);renderWeek();renderMonth();fetch(FEED,{cache:'no-store'}).then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{if(!data.complete_pagination||!Array.isArray(data.events)||!data.events.length)throw Error('Incomplete calendar data');state.events=data.events.slice().sort((a,b)=>a.date.localeCompare(b.date)||(a.start||'').localeCompare(b.start)||a.title.localeCompare(b.title));state.ready=true;$('notice').hidden=true;const venues=[...new Set(state.events.map(e=>e.venue).filter(Boolean))].sort();$('venue').innerHTML='<option value="all">All venues</option>'+venues.map(v=>`<option value="${esc(v)}">${esc(v)}</option>`).join('');$('subTitle').textContent=`${state.events.length} jazz listings · Select a date or scroll`;render()}).catch(e=>{$('notice').classList.add('error');$('notice').textContent='The live calendar could not be loaded ('+e.message+'). Try again later.';$('count').textContent='Unavailable'});
 })();
-</script></body></html>
+</script>
+<!-- Communicate the calendar's natural height to its Bandzoogle embed. -->
+<script>
+(() => {
+  'use strict';
+  const main = document.querySelector('main.wrap');
+  if (!main || window.parent === window) return;
+  let frame = 0;
+  function reportHeight() {
+    if (frame) cancelAnimationFrame(frame);
+    frame = requestAnimationFrame(() => {
+      frame = 0;
+      const height = Math.ceil(Math.max(
+        main.getBoundingClientRect().bottom + window.scrollY,
+        main.scrollHeight + main.offsetTop
+      )) + 4;
+      window.parent.postMessage({ type: 'okcjazz-calendar-height', height }, '*');
+    });
+  }
+  if ('ResizeObserver' in window) new ResizeObserver(reportHeight).observe(main);
+  window.addEventListener('load', reportHeight);
+  window.addEventListener('resize', reportHeight);
+  document.addEventListener('toggle', reportHeight, true);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(reportHeight);
+  reportHeight();
+})();
+</script>
+</body></html>
