@@ -1,58 +1,10 @@
 {
   "source": "https://okcjazz.life/shows-and-events",
-  "generated_at": "2026-11-16T12:35:19.458444-06:00",
+  "generated_at": "2026-11-16T15:50:29.066021-06:00",
   "timezone": "America/Chicago",
-  "event_count": 585,
+  "event_count": 586,
   "complete_pagination": true,
   "events": [
-    {
-      "event_id": "6808981",
-      "occurrence_id": "788003233",
-      "title": "Ben Patterson @ OU",
-      "date": "2026-11-15",
-      "start": null,
-      "end_time_label": null,
-      "venue": "",
-      "location": "",
-      "venue_url": null,
-      "description": "-Nov 15th @ 7-9pm: Midway Deli Jam Session\n-Nov 16th @ 8pm: Sharp Concert Hall in Catlett Music Center\nJoin us for two fantastic opportunities to witness trombone legend and composer/arranger extraordinaire Ben Patterson performing live in Oklahoma!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/fc58b12c4f1db4e436eec29ba37d42126c6b6feb/original/901397676-2012534689392025-1475245599533942239-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6808981/788003233/ben-patterson-ou",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
-      "event_id": "6783353",
-      "occurrence_id": "785929776",
-      "title": "JTF Jazz Jam @ Midway",
-      "date": "2026-11-15",
-      "start": "2026-11-15T18:00:00-06:00",
-      "end_time_label": "8:00PM",
-      "venue": "Midway Deli",
-      "location": "Midway Deli, 601 W Eufaula Street, Norman, OK 73069",
-      "venue_url": "https://www.midwaydeli.com/",
-      "description": "Come jam with us at OU with the JTF Collective!\nALL AGES\nBi-weekly Sunday @ 6-8pm\nNov 1st\nNov 15th (ft. Ben Patterson!)\nNov 29th\nDec 13th\nBackyard at Midway Deli",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/c0234738ae6bd792a50f07ebab52ed916672d2e3/original/img-9597.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6783353/785929776/jtf-jazz-jam-midway",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
-      "event_id": "6794916",
-      "occurrence_id": "786448514",
-      "title": "Jazz Nights @ Highball Sushi",
-      "date": "2026-11-15",
-      "start": "2026-11-15T18:00:00-06:00",
-      "end_time_label": "9:00PM",
-      "venue": "Highball Sushi + Kitchen",
-      "location": "Highball Sushi + Kitchen, 808 N Broadway Ave, Oklahoma City, OK 73102",
-      "venue_url": "https://www.highballokc.com/",
-      "description": "Join us on Sundays for Live Jazz at Highball!\nLineup for Nov & Dec:\nNov. 1 - KC White Trio\nNov. 8 - KC White Trio\nNov. 15 - Mitch Bell Trio\nNov. 22 - Marcus Upshaw Trio\nNov. 29 - Marcus Upshaw Trio\nDec. 6 - Mitch Bell Trio\nJoin us in downtown OKC for Live Jazz and happy hour!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f757fc4377313ca6c74933ad54a2dc6cced628a0/original/screenshot-2026-10-29-at-3-14-40-pm.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6794916/786448514/jazz-nights-highball-sushi",
-      "ticket_url": null,
-      "reservation_url": null
-    },
     {
       "event_id": "6798104",
       "occurrence_id": "786836373",
@@ -71,18 +23,18 @@
     },
     {
       "event_id": "6808981",
-      "occurrence_id": "788003234",
-      "title": "Ben Patterson @ OU",
+      "occurrence_id": "788782764",
+      "title": "Ben Patterson w/ OU Jazz Ensembles",
       "date": "2026-11-16",
-      "start": null,
+      "start": "2026-11-16T20:00:00-06:00",
       "end_time_label": null,
-      "venue": "",
-      "location": "",
+      "venue": "Catlett Music Center",
+      "location": "Catlett Music Center, 500 W Boyd St., Norman, OK  73019",
       "venue_url": null,
-      "description": "-Nov 15th @ 7-9pm: Midway Deli Jam Session\n-Nov 16th @ 8pm: Sharp Concert Hall in Catlett Music Center\nJoin us for two fantastic opportunities to witness trombone legend and composer/arranger extraordinaire Ben Patterson performing live in Oklahoma!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/fc58b12c4f1db4e436eec29ba37d42126c6b6feb/original/901397676-2012534689392025-1475245599533942239-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6808981/788003234/ben-patterson-ou",
-      "ticket_url": null,
+      "description": "Witness trombone legend and composer/arranger extraordinaire Ben Patterson performing live in Oklahoma!\n(Ticket link below)\nJazz O directed by Jay Wilkinson\nJazz U directed by Dr. Lonnie Easter\nNovember 16th at 8:00pm\nSharp Concert Hall, Catlett Music Center\nFor ticket information call: (405) 325-4101 or visit the OU Fine Arts Center Box Office in Catlett Music Center.",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/3f3db0decff74ff0ca36c5bdaa2b4711b2268171/original/img-9981.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6808981/788782764/ben-patterson-w-ou-jazz-ensembles",
+      "ticket_url": "https://www.ou.edu/finearts/music/areas-ensembles/jazz/events",
       "reservation_url": null
     },
     {
@@ -150,19 +102,19 @@
       "reservation_url": null
     },
     {
-      "event_id": "6188645",
-      "occurrence_id": "788003243",
-      "title": "The Speakeasy Jazz Night & Jam Session",
+      "event_id": "6816250",
+      "occurrence_id": "788782635",
+      "title": "Logan Gorrell plays \"Songbook\" @ Speakeasy Jazz Night & Jam",
       "date": "2026-11-18",
       "start": "2026-11-18T20:00:00-06:00",
       "end_time_label": null,
       "venue": "51st Street Speakeasy",
       "location": "51st Street Speakeasy, 1114 Northwest 51st Street, Oklahoma City, OK 73118",
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
-      "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003243/the-speakeasy-jazz-night-jam-session",
-      "ticket_url": null,
+      "description": "Join us Wednesday, November 18th at The 51st St. Speakeasy for world-class local jazz, followed by a late-night Jazz Jam. Bring your instrument!\nOKC saxophonist Logan Gorrell, a powerhouse player, composer, and arranger, leads a quartet performing Kenny Garrett's \"Songbook\" in its entirety. Hosted by Kendrik McKinney on piano.\nThanks to our weekly sponsors, Attorney Butter (attorneybutter.com) and Chad Rice Homes (chadricehomes.com), for supporting live jazz in OKC!\nLineup:\nLogan Gorrell - Featured Artist/Sax\nKendrik McKinney - Host/Piano\nRei Wang-Bowen - Bass\nDavid Bowen - Drums\nDetails: 8-12 PM | 21+\nNo cover. Advance table reservations only, with limited seating. Each reservation includes 4-5 seats. Be at your table by 8:15 PM, as unclaimed tables will be given away after that. Jam session follows the first set, around 9:30 PM.",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/15fb03ee6d8d52aca03fc8c954651022d233e3cc/original/original-20261116-011425.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6816250/788782635/logan-gorrell-plays-songbook-speakeasy-jazz-night-jam",
+      "ticket_url": "https://www.eventbrite.com/e/the-speakeasy-jazz-night-presents-kenny-garretts-songbook-tickets-2004871165626",
       "reservation_url": null
     },
     {
@@ -178,6 +130,22 @@
       "description": "Keely McGough brings her jazz and blues vocals to O Bar Thursday, November 19th, for Music Over Midtown, accompanied by Grant Wells on keyboard. An Oklahoma-based vocalist and pianist, Keely began performing at age six and has studied music in Italy and Spain. Enjoy live music, craft cocktails, and panoramic Oklahoma City views from the Ambassador Hotel rooftop. Music runs 7–9pm, with extended happy hours from 4–9pm and food from The Chalkboard OKC.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/4980bd27072f65a0147a409bf139040d10ffdfbb/original/863599070-10243237980101549-3910237347949323180-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6798093/786836360/keely-mcgough-o-bar",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6816299",
+      "occurrence_id": "788782849",
+      "title": "OKC Latin Band @ Blue Note",
+      "date": "2026-11-19",
+      "start": "2026-11-19T21:00:00-06:00",
+      "end_time_label": "11:00PM",
+      "venue": "Blue Note OKC",
+      "location": "Blue Note OKC, 2408 N Robinson Ave, Oklahoma City, OK",
+      "venue_url": "https://okcbluenote.com/",
+      "description": "Blue Note OKC presents OKC Latin Band!\nGet ready to dance! Oklahoma's premier salsa, cumbia, and merengue band takes the stage this\nThursday, Nov 19th at 9 PM\n.\nBlue Note OKC, 2408 N Robinson Ave, Oklahoma City\n$10 at the door\nFeaturing Jorge Leon, Nelson Gonzalez, Elio Garcia, Charito del Peru, Priscila Valencia, Daniel Sulbaran, and Yrwin Rodriguez.\nGrab your dance partner and come move with us on a Thursday night.",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/a1ab1462b86f681f95e9ad08ae61a1969a7cec23/original/f00b577b92ffe140cbca22eef2bb4f0e.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6816299/788782849/okc-latin-band-blue-note",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -214,6 +182,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6816281",
+      "occurrence_id": "788782826",
+      "title": "Rei & The Moving Castle @ Perets",
+      "date": "2026-11-21",
+      "start": "2026-11-21T10:00:00-06:00",
+      "end_time_label": "1:30PM",
+      "venue": "Perets",
+      "location": "Perets, 701 W Sheridan Ave 2nd Floor, Oklahoma City, OK 73102",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=701%20W%20Sheridan%20Ave%202nd%20Floor,%20Oklahoma%20City,%20OK%2073102",
+      "description": "Join Perets on our adventure to the Japanese countryside to celebrate anime household classics on Sat, Nov 21st from 10am-1:30pm!\nFeaturing a live music performance by the local and themed quintet Rei and the Moving Castles to fully immerse yourself into the whimsical world.\nEnjoy on limited-time movie-themed beverages and treats made from scratch by Perets Coffee!\nShop handmade merchandise and trinkets from local artists!\nEnjoy discounted tickets for $10 until Tuesday, November 17th! Then, tickets will be for sale for $15! Guests under the age of 12 are free with purchase of adult ticket.\nWhether just stopping by, or staying with a good book to enjoy the ambiance, we would love to see you on the 21st!\n(Link to tickets below)",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/4756f316a04e92d306dd15f0cd4a386987eedff8/original/2026-04-04-rei-the-moving-castle-social-graphics-1920x1005-v1-jpg-sqxl.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6816281/788782826/rei-the-moving-castle-perets",
+      "ticket_url": "https://checkout.square.site/merchant/MLH0GGS06A5BJ/checkout/AYSQKCPJODOH2QUR7T3WH35H",
+      "reservation_url": null
+    },
+    {
       "event_id": "6782322",
       "occurrence_id": "785150168",
       "title": "Garrett \"Big G\" Jacobson (Blues)",
@@ -232,16 +216,16 @@
     {
       "event_id": "6815224",
       "occurrence_id": "788653145",
-      "title": "Titus Ott Quartet @ Maximillian’s",
+      "title": "Titus Ott Trio @ Maximillian’s",
       "date": "2026-11-21",
       "start": "2026-11-21T21:00:00-06:00",
       "end_time_label": null,
       "venue": "Maximillian’s Social Club",
       "location": "Maximillian’s Social Club, 101 S Porter Ave, Norman, OK 73071",
       "venue_url": "https://www.maximillianssocialclub.com/",
-      "description": "Enjoy live music from guitarist Titus Ott & his quartet this Saturday night from 9-11pm at Maximillian's Social Club!\n(No Cover)",
+      "description": "Enjoy live music from guitarist Titus Ott & his trio this Saturday night from 9-11pm at Maximillian's Social Club!\nfeat: Titus Ott (guitar), Kangwa Mundende (bass), Sam Vaughn (sax)\n(No Cover)",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/786ea332b60654f5333486c182b0dfe238740129/original/img-9977.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6815224/788653145/titus-ott-quartet-maximillian-s",
+      "event_url": "https://okcjazz.life/event/6815224/788653145/titus-ott-trio-maximillian-s",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -291,6 +275,22 @@
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f757fc4377313ca6c74933ad54a2dc6cced628a0/original/screenshot-2026-10-29-at-3-14-40-pm.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
       "event_url": "https://okcjazz.life/event/6794916/786448515/jazz-nights-highball-sushi",
       "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6816264",
+      "occurrence_id": "788782704",
+      "title": "Mitch Bell: Round Midnight Original Artist Series",
+      "date": "2026-11-22",
+      "start": "2026-11-22T19:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Round Midnight Bar and Jazz Lounge",
+      "location": "Round Midnight Bar and Jazz Lounge, 9 South Broadway, Edmond, Oklahoma 73034",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=9%20South%20Broadway,%20Edmond,%20Oklahoma%2073034",
+      "description": "Join us at Round Midnight in Edmond for a night of world-class ORIGINAL jazz featuring guitarist and composer Mitch Bell. Enjoy a craft cocktail in an upscale setting while hearing local original music. This one will sell FAST, so get tickets now!\nMitch tours the world as a guitarist and composer of all styles, and he heads the performance division of ACM @ UCO in downtown OKC. He's joined by an all-star lineup of his closest musical peers to bring his original compositions to life, hosted by Kendrik McKinney on piano.\nLineup:\nMitch Bell - Guitar/Featured Artist\nKendrik McKinney - Piano/Host\nRei Wang - Bass\nDavid Bowen - Drums\nDetails: Doors 6:00 PM | Show 7:00-9:00 PM | 21+\nSeating is first come, first served, and standing tickets are available at a discount. Parties of 5 or more can reserve seating by emailing\nkendrikmckinneymusic@gmail.com\n.\nRound Midnight doesn't serve food but welcomes outside food, so grab something to-go in downtown Edmond and bring it along.",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/5f98428d52e4b0c7f4313ed9e9e2f0409921609c/original/original-20261113-022645.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6816264/788782704/mitch-bell-round-midnight-original-artist-series",
+      "ticket_url": "http://mitchbell.eventbrite.com",
       "reservation_url": null
     },
     {
@@ -375,7 +375,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003244",
+      "occurrence_id": "788782641",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-11-25",
       "start": "2026-11-25T20:00:00-06:00",
@@ -385,7 +385,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003244/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782641/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -583,7 +583,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003245",
+      "occurrence_id": "788782642",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-12-02",
       "start": "2026-12-02T20:00:00-06:00",
@@ -593,7 +593,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003245/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782642/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -807,7 +807,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003246",
+      "occurrence_id": "788782643",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-12-09",
       "start": "2026-12-09T20:00:00-06:00",
@@ -817,7 +817,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003246/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782643/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -1015,7 +1015,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003247",
+      "occurrence_id": "788782644",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-12-16",
       "start": "2026-12-16T20:00:00-06:00",
@@ -1025,7 +1025,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003247/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782644/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -1239,7 +1239,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003248",
+      "occurrence_id": "788782645",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-12-23",
       "start": "2026-12-23T20:00:00-06:00",
@@ -1249,7 +1249,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003248/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782645/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -1431,7 +1431,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003249",
+      "occurrence_id": "788782646",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2026-12-30",
       "start": "2026-12-30T20:00:00-06:00",
@@ -1441,7 +1441,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003249/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782646/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -1655,7 +1655,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003250",
+      "occurrence_id": "788782647",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-01-06",
       "start": "2027-01-06T20:00:00-06:00",
@@ -1665,7 +1665,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003250/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782647/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -1863,7 +1863,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003251",
+      "occurrence_id": "788782648",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-01-13",
       "start": "2027-01-13T20:00:00-06:00",
@@ -1873,7 +1873,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003251/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782648/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2055,7 +2055,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003252",
+      "occurrence_id": "788782649",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-01-20",
       "start": "2027-01-20T20:00:00-06:00",
@@ -2065,7 +2065,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003252/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782649/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2263,7 +2263,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003253",
+      "occurrence_id": "788782650",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-01-27",
       "start": "2027-01-27T20:00:00-06:00",
@@ -2273,7 +2273,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003253/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782650/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2455,7 +2455,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003254",
+      "occurrence_id": "788782651",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-02-03",
       "start": "2027-02-03T20:00:00-06:00",
@@ -2465,7 +2465,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003254/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782651/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2695,7 +2695,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003255",
+      "occurrence_id": "788782652",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-02-10",
       "start": "2027-02-10T20:00:00-06:00",
@@ -2705,7 +2705,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003255/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782652/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2887,7 +2887,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003256",
+      "occurrence_id": "788782653",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-02-17",
       "start": "2027-02-17T20:00:00-06:00",
@@ -2897,7 +2897,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003256/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782653/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3095,7 +3095,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003257",
+      "occurrence_id": "788782654",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-02-24",
       "start": "2027-02-24T20:00:00-06:00",
@@ -3105,7 +3105,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003257/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782654/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3287,7 +3287,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003258",
+      "occurrence_id": "788782655",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-03-03",
       "start": "2027-03-03T20:00:00-06:00",
@@ -3297,7 +3297,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003258/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782655/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3543,7 +3543,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003259",
+      "occurrence_id": "788782656",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-03-10",
       "start": "2027-03-10T20:00:00-06:00",
@@ -3553,7 +3553,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003259/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782656/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3735,7 +3735,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003260",
+      "occurrence_id": "788782657",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-03-17",
       "start": "2027-03-17T20:00:00-05:00",
@@ -3745,7 +3745,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003260/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782657/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3943,7 +3943,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003261",
+      "occurrence_id": "788782658",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-03-24",
       "start": "2027-03-24T20:00:00-05:00",
@@ -3953,7 +3953,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003261/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782658/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4135,7 +4135,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003262",
+      "occurrence_id": "788782659",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-03-31",
       "start": "2027-03-31T20:00:00-05:00",
@@ -4145,7 +4145,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003262/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782659/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4375,7 +4375,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003263",
+      "occurrence_id": "788782660",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-04-07",
       "start": "2027-04-07T20:00:00-05:00",
@@ -4385,7 +4385,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003263/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782660/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4567,7 +4567,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003264",
+      "occurrence_id": "788782661",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-04-14",
       "start": "2027-04-14T20:00:00-05:00",
@@ -4577,7 +4577,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003264/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782661/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4775,7 +4775,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003265",
+      "occurrence_id": "788782662",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-04-21",
       "start": "2027-04-21T20:00:00-05:00",
@@ -4785,7 +4785,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003265/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782662/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4967,7 +4967,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003266",
+      "occurrence_id": "788782663",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-04-28",
       "start": "2027-04-28T20:00:00-05:00",
@@ -4977,7 +4977,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003266/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782663/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -5191,7 +5191,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003267",
+      "occurrence_id": "788782664",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-05-05",
       "start": "2027-05-05T20:00:00-05:00",
@@ -5201,7 +5201,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003267/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782664/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -5399,7 +5399,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003268",
+      "occurrence_id": "788782665",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-05-12",
       "start": "2027-05-12T20:00:00-05:00",
@@ -5409,7 +5409,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003268/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782665/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -5607,7 +5607,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003269",
+      "occurrence_id": "788782666",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-05-19",
       "start": "2027-05-19T20:00:00-05:00",
@@ -5617,7 +5617,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003269/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782666/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -5799,7 +5799,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003270",
+      "occurrence_id": "788782667",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-05-26",
       "start": "2027-05-26T20:00:00-05:00",
@@ -5809,7 +5809,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003270/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782667/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6007,7 +6007,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003271",
+      "occurrence_id": "788782668",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-06-02",
       "start": "2027-06-02T20:00:00-05:00",
@@ -6017,7 +6017,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003271/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782668/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6231,7 +6231,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003272",
+      "occurrence_id": "788782669",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-06-09",
       "start": "2027-06-09T20:00:00-05:00",
@@ -6241,7 +6241,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003272/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782669/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6439,7 +6439,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003273",
+      "occurrence_id": "788782670",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-06-16",
       "start": "2027-06-16T20:00:00-05:00",
@@ -6449,7 +6449,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003273/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782670/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6615,7 +6615,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003274",
+      "occurrence_id": "788782671",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-06-23",
       "start": "2027-06-23T20:00:00-05:00",
@@ -6625,7 +6625,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003274/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782671/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6807,7 +6807,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003275",
+      "occurrence_id": "788782672",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-06-30",
       "start": "2027-06-30T20:00:00-05:00",
@@ -6817,7 +6817,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003275/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782672/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6983,7 +6983,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003276",
+      "occurrence_id": "788782673",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-07-07",
       "start": "2027-07-07T20:00:00-05:00",
@@ -6993,7 +6993,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003276/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782673/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7143,7 +7143,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003277",
+      "occurrence_id": "788782674",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-07-14",
       "start": "2027-07-14T20:00:00-05:00",
@@ -7153,7 +7153,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003277/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782674/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7287,7 +7287,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003278",
+      "occurrence_id": "788782675",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-07-21",
       "start": "2027-07-21T20:00:00-05:00",
@@ -7297,7 +7297,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003278/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782675/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7447,7 +7447,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003279",
+      "occurrence_id": "788782676",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-07-28",
       "start": "2027-07-28T20:00:00-05:00",
@@ -7457,7 +7457,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003279/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782676/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7607,7 +7607,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003280",
+      "occurrence_id": "788782677",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-08-04",
       "start": "2027-08-04T20:00:00-05:00",
@@ -7617,7 +7617,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003280/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782677/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7783,7 +7783,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003281",
+      "occurrence_id": "788782678",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-08-11",
       "start": "2027-08-11T20:00:00-05:00",
@@ -7793,7 +7793,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003281/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782678/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7927,7 +7927,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003282",
+      "occurrence_id": "788782679",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-08-18",
       "start": "2027-08-18T20:00:00-05:00",
@@ -7937,7 +7937,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003282/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782679/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8087,7 +8087,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003283",
+      "occurrence_id": "788782680",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-08-25",
       "start": "2027-08-25T20:00:00-05:00",
@@ -8097,7 +8097,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003283/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782680/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8231,7 +8231,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003284",
+      "occurrence_id": "788782681",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-09-01",
       "start": "2027-09-01T20:00:00-05:00",
@@ -8241,7 +8241,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003284/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782681/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8391,7 +8391,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003285",
+      "occurrence_id": "788782682",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-09-08",
       "start": "2027-09-08T20:00:00-05:00",
@@ -8401,7 +8401,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003285/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782682/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8503,7 +8503,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003286",
+      "occurrence_id": "788782683",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-09-15",
       "start": "2027-09-15T20:00:00-05:00",
@@ -8513,7 +8513,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003286/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782683/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8631,7 +8631,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003287",
+      "occurrence_id": "788782684",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-09-22",
       "start": "2027-09-22T20:00:00-05:00",
@@ -8641,7 +8641,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003287/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782684/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8743,7 +8743,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003288",
+      "occurrence_id": "788782685",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-09-29",
       "start": "2027-09-29T20:00:00-05:00",
@@ -8753,7 +8753,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003288/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782685/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8887,7 +8887,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003289",
+      "occurrence_id": "788782686",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-10-06",
       "start": "2027-10-06T20:00:00-05:00",
@@ -8897,7 +8897,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003289/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782686/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8999,7 +8999,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003290",
+      "occurrence_id": "788782687",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-10-13",
       "start": "2027-10-13T20:00:00-05:00",
@@ -9009,7 +9009,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003290/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782687/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9127,7 +9127,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003291",
+      "occurrence_id": "788782688",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-10-20",
       "start": "2027-10-20T20:00:00-05:00",
@@ -9137,7 +9137,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003291/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782688/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9223,7 +9223,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003292",
+      "occurrence_id": "788782689",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-10-27",
       "start": "2027-10-27T20:00:00-05:00",
@@ -9233,7 +9233,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003292/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782689/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9287,7 +9287,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003293",
+      "occurrence_id": "788782690",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-11-03",
       "start": "2027-11-03T20:00:00-05:00",
@@ -9297,7 +9297,7 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003293/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782690/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9351,7 +9351,7 @@
     },
     {
       "event_id": "6188645",
-      "occurrence_id": "788003294",
+      "occurrence_id": "788782691",
       "title": "The Speakeasy Jazz Night & Jam Session",
       "date": "2027-11-10",
       "start": "2027-11-10T20:00:00-06:00",
@@ -9361,7 +9361,23 @@
       "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6188645/788003294/the-speakeasy-jazz-night-jam-session",
+      "event_url": "https://okcjazz.life/event/6188645/788782691/the-speakeasy-jazz-night-jam-session",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6188645",
+      "occurrence_id": "788782692",
+      "title": "The Speakeasy Jazz Night & Jam Session",
+      "date": "2027-11-17",
+      "start": "2027-11-17T20:00:00-06:00",
+      "end_time_label": null,
+      "venue": "51st Street Speakeasy",
+      "location": "51st Street Speakeasy, 1114 Northwest 51st Street, Oklahoma City, OK 73118",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=1114%20Northwest%2051st%20Street,%20Oklahoma%20City,%20OK%2073118",
+      "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6188645/788782692/the-speakeasy-jazz-night-jam-session",
       "ticket_url": null,
       "reservation_url": null
     }
