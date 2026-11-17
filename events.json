@@ -1,26 +1,10 @@
 {
   "source": "https://okcjazz.life/shows-and-events",
-  "generated_at": "2026-11-16T15:50:29.066021-06:00",
+  "generated_at": "2026-11-16T20:56:56.414162-06:00",
   "timezone": "America/Chicago",
-  "event_count": 586,
+  "event_count": 583,
   "complete_pagination": true,
   "events": [
-    {
-      "event_id": "6798104",
-      "occurrence_id": "786836373",
-      "title": "Sam Vaughn Trio @ Blue Note",
-      "date": "2026-11-15",
-      "start": "2026-11-15T20:00:00-06:00",
-      "end_time_label": "11:00PM",
-      "venue": "Blue Note OKC",
-      "location": "Blue Note OKC, 2408 N Robinson Ave, Oklahoma City, OK",
-      "venue_url": "https://okcbluenote.com/",
-      "description": "The Sam Vaughn trio returns to Blue Note! Experience an evening of world-class jazz with a brilliant musical entourage on the cutting edge. Don't miss it! Ft. Sam Vaughn (sax), Ford Chambers (bass), Cole Woodard (drums) - NO COVER",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/0029d9d43f295efc689983e365d80a9bf8de9e77/original/jazz-at-the-speak-dylan-johnson-52.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6798104/786836373/sam-vaughn-trio-blue-note",
-      "ticket_url": null,
-      "reservation_url": null
-    },
     {
       "event_id": "6808981",
       "occurrence_id": "788782764",
@@ -8022,22 +8006,6 @@
       "reservation_url": null
     },
     {
-      "event_id": "6794916",
-      "occurrence_id": "786448554",
-      "title": "Jazz Nights @ Highball Sushi",
-      "date": "2027-08-22",
-      "start": "2027-08-22T18:00:00-05:00",
-      "end_time_label": "9:00PM",
-      "venue": "Highball Sushi + Kitchen",
-      "location": "Highball Sushi + Kitchen, 808 N Broadway Ave, Oklahoma City, OK 73102",
-      "venue_url": "https://www.highballokc.com/",
-      "description": "Join us on Sundays for Live Jazz at Highball!\nLineup for Nov & Dec:\nNov. 1 - KC White Trio\nNov. 8 - KC White Trio\nNov. 15 - Mitch Bell Trio\nNov. 22 - Marcus Upshaw Trio\nNov. 29 - Marcus Upshaw Trio\nDec. 6 - Mitch Bell Trio\nJoin us in downtown OKC for Live Jazz and happy hour!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f757fc4377313ca6c74933ad54a2dc6cced628a0/original/screenshot-2026-10-29-at-3-14-40-pm.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6794916/786448554/jazz-nights-highball-sushi",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
       "event_id": "6137830",
       "occurrence_id": "786187031",
       "title": "Blue Note Jazz Night",
@@ -8322,22 +8290,6 @@
       "description": "Join us at Tellers every Sunday from 11am-3pm for a classy Sunday brunch experience, featuring some of OKC's finest jazz musicians!\nLocated in The Great Hall at the First National Center in Downtown OKC, the TELLERS restaurant is THE premier experience in Oklahoma City! From the grand architecture to the world class food and beverages, TELLERS is a must experience sensory delight.\nEnjoy brunch classics like Eggs Benedict, Lemon Buttermilk Pancakes and Italian favorites from the wood-fired grill. Enjoy live jazz music while sipping on sparkling and signature brunch cocktails.\nReservations encouraged:\nhttps://www.tellersokc.com/",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/6ce8c6348b4507fb2012c88b0154fecc9a03ab00/original/tellers-logo.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/5598614/786187082/tellers-jazz-brunch",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
-      "event_id": "6783353",
-      "occurrence_id": "785929797",
-      "title": "JTF Jazz Jam @ Midway",
-      "date": "2027-09-05",
-      "start": "2027-09-05T18:00:00-05:00",
-      "end_time_label": "8:00PM",
-      "venue": "Midway Deli",
-      "location": "Midway Deli, 601 W Eufaula Street, Norman, OK 73069",
-      "venue_url": "https://www.midwaydeli.com/",
-      "description": "Come jam with us at OU with the JTF Collective!\nALL AGES\nBi-weekly Sunday @ 6-8pm\nNov 1st\nNov 15th (ft. Ben Patterson!)\nNov 29th\nDec 13th\nBackyard at Midway Deli",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/c0234738ae6bd792a50f07ebab52ed916672d2e3/original/img-9597.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6783353/785929797/jtf-jazz-jam-midway",
       "ticket_url": null,
       "reservation_url": null
     },
