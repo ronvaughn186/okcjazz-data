@@ -1,26 +1,10 @@
 {
   "source": "https://okcjazz.life/shows-and-events",
-  "generated_at": "2026-11-17T07:28:41.775234-06:00",
+  "generated_at": "2026-11-17T17:31:47.533729-06:00",
   "timezone": "America/Chicago",
-  "event_count": 585,
+  "event_count": 583,
   "complete_pagination": true,
   "events": [
-    {
-      "event_id": "6808981",
-      "occurrence_id": "788782764",
-      "title": "Ben Patterson w/ OU Jazz Ensembles",
-      "date": "2026-11-16",
-      "start": "2026-11-16T20:00:00-06:00",
-      "end_time_label": null,
-      "venue": "Catlett Music Center",
-      "location": "Catlett Music Center, 500 W Boyd St., Norman, OK  73019",
-      "venue_url": null,
-      "description": "Witness trombone legend and composer/arranger extraordinaire Ben Patterson performing live in Oklahoma!\n(Ticket link below)\nJazz O directed by Jay Wilkinson\nJazz U directed by Dr. Lonnie Easter\nNovember 16th at 8:00pm\nSharp Concert Hall, Catlett Music Center\nFor ticket information call: (405) 325-4101 or visit the OU Fine Arts Center Box Office in Catlett Music Center.",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/3f3db0decff74ff0ca36c5bdaa2b4711b2268171/original/img-9981.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6808981/788782764/ben-patterson-w-ou-jazz-ensembles",
-      "ticket_url": "https://www.ou.edu/finearts/music/areas-ensembles/jazz/events",
-      "reservation_url": null
-    },
     {
       "event_id": "6653097",
       "occurrence_id": "770907445",
@@ -7698,22 +7682,6 @@
       "description": "Come jam with us at OU with the JTF Collective!\nALL AGES\nBi-weekly Sunday @ 6-8pm\nNov 1st\nNov 15th (ft. Ben Patterson!)\nNov 29th\nDec 13th\nBackyard at Midway Deli",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/c0234738ae6bd792a50f07ebab52ed916672d2e3/original/img-9597.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6783353/785929795/jtf-jazz-jam-midway",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
-      "event_id": "6794916",
-      "occurrence_id": "786448552",
-      "title": "Jazz Nights @ Highball Sushi",
-      "date": "2027-08-08",
-      "start": "2027-08-08T18:00:00-05:00",
-      "end_time_label": "9:00PM",
-      "venue": "Highball Sushi + Kitchen",
-      "location": "Highball Sushi + Kitchen, 808 N Broadway Ave, Oklahoma City, OK 73102",
-      "venue_url": "https://www.highballokc.com/",
-      "description": "Join us on Sundays for Live Jazz at Highball!\nLineup for Nov & Dec:\nNov. 1 - KC White Trio\nNov. 8 - KC White Trio\nNov. 15 - Mitch Bell Trio\nNov. 22 - Marcus Upshaw Trio\nNov. 29 - Marcus Upshaw Trio\nDec. 6 - Mitch Bell Trio\nJoin us in downtown OKC for Live Jazz and happy hour!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f757fc4377313ca6c74933ad54a2dc6cced628a0/original/screenshot-2026-10-29-at-3-14-40-pm.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6794916/786448552/jazz-nights-highball-sushi",
       "ticket_url": null,
       "reservation_url": null
     },
