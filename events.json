@@ -1,26 +1,10 @@
 {
   "source": "https://okcjazz.life/shows-and-events",
-  "generated_at": "2026-11-20T19:32:18.492851-06:00",
+  "generated_at": "2026-11-21T15:40:11.283374-06:00",
   "timezone": "America/Chicago",
-  "event_count": 577,
+  "event_count": 622,
   "complete_pagination": true,
   "events": [
-    {
-      "event_id": "6725249",
-      "occurrence_id": "778920870",
-      "title": "Solo Piano @ Hefner Grill",
-      "date": "2026-11-20",
-      "start": "2026-11-20T18:00:00-06:00",
-      "end_time_label": "9:00PM",
-      "venue": "Hefner Grill",
-      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
-      "venue_url": "https://hefnergrill.com/",
-      "description": "Enjoy an evening of live solo jazz piano featuring Garrett Jacobson, each Friday night from 6-9pm at Hefner Grill!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/d232dafdcb13d6df8af54eb4234151479258d9f9/original/789060377-1021148600906678-6177524182919066614-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6725249/778920870/solo-piano-hefner-grill",
-      "ticket_url": null,
-      "reservation_url": null
-    },
     {
       "event_id": "6798108",
       "occurrence_id": "786836426",
@@ -67,6 +51,22 @@
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/bca380173d361404f0631e08dbbe4f2ed84e974a/original/719-img-1870-rev-1752961987.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6782322/785150168/garrett-big-g-jacobson-blues",
       "ticket_url": "https://calendar.uco.edu/jazz-lab/event/13875-big-g",
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823078",
+      "occurrence_id": "789431132",
+      "title": "Michael Summers Trio @ Gatsby",
+      "date": "2026-11-21",
+      "start": "2026-11-21T20:30:00-06:00",
+      "end_time_label": null,
+      "venue": "Gatsby: Bourbon Bar & Lounge",
+      "location": "Gatsby: Bourbon Bar & Lounge, 320 W Wilshire Blvd, Oklahoma City, OK 73116",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=320%20W%20Wilshire%20Blvd,%20Oklahoma%20City,%20OK%2073116",
+      "description": "Step into a night of live jazz at Gatsby with powerhouse vocalist Michael Summers and his trio! Enjoy exceptional live music and great atmosphere. See you there!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/8ef324ef7ee47f9e1424d283a3c8a0ef51ea8b5d/original/923007446-1662938838894756-2248709251575030733-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823078/789431132/michael-summers-trio-gatsby",
+      "ticket_url": null,
       "reservation_url": null
     },
     {
@@ -287,10 +287,10 @@
       "venue": "UCO Jazz Lab",
       "location": "UCO Jazz Lab, 100 E 5th St, Edmond, OK 73034",
       "venue_url": "https://www.ucojazzlab.com/",
-      "description": "Experience an exceptional evening of jazz featuring original music and favorite standards performed by some of the best musicians in the industry.\nTICKETS ON SALE SOON\nDoors open at 7:00 PM | Show starts at 8:00PM\nTickets will be available for purchase online, at the door, or by calling (405)974-2100\nBrian Gorrell & Jazz Company was formed in 1995 when Gorrell moved to Oklahoma City after performing with The Lawrence Welk Orchestra. The group performs a wide variety of styles including traditional & mainstream jazz, fusion, & latin styles. The band focuses on original compositions and also material by diverse composers such as Billy Strayhorn, Michael Brecker, Victor Young, Marcus Miller, Pat Metheny, and many others.\nHideaway Pizza and full bar service are available inside the UCO Jazz Lab during all performances.\nEvent Cost $15.00",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/441cdd2df204dfa5d9228200b4767cff717e4172/original/86-brian-gorell-rev-1709674758.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "description": "Experience an exceptional evening of jazz featuring original music and favorite standards performed by some of the best musicians in the industry.\nDoors open at 7:00 PM | Show starts at 8:00PM\nTickets will be available for purchase online, at the door, or by calling (405)974-2100\nBrian Gorrell & Jazz Company was formed in 1995 when Gorrell moved to Oklahoma City after performing with The Lawrence Welk Orchestra. The group performs a wide variety of styles including traditional & mainstream jazz, fusion, & latin styles. The band focuses on original compositions and also material by diverse composers such as Billy Strayhorn, Michael Brecker, Victor Young, Marcus Miller, Pat Metheny, and many others.\nHideaway Pizza and full bar service are available inside the UCO Jazz Lab during all performances.\nEvent Cost $15.00",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/80b5f0ff2144487a497bd54bc23de4e4c3903f38/original/491999443-1276807780833110-654783127415771530-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6782326/785150172/brian-gorrell-jazz-company",
-      "ticket_url": null,
+      "ticket_url": "https://calendar.uco.edu/jazz-lab/event/13886-brian-gorrell-and-jazz-company",
       "reservation_url": null
     },
     {
@@ -611,6 +611,22 @@
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907448/standards-spirits-round-midnight",
       "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823075",
+      "occurrence_id": "789431128",
+      "title": "Justin Echols @ Hope for the Holidays",
+      "date": "2026-12-08",
+      "start": "2026-12-08T19:30:00-06:00",
+      "end_time_label": null,
+      "venue": "Will Rogers Theatre",
+      "location": "Will Rogers Theatre, 4322 N Western Ave, Oklahoma City, OK 73118",
+      "venue_url": "https://www.willrogerstheatre.com/",
+      "description": "Join us at the beautiful Will Rogers Theatre for Hope for the Holidays, an unforgettable evening of holiday jazz, celebration, and giving back! Justin will be partnering with Upward Transitions, an incredible organization making a meaningful difference in the lives of individuals and families throughout the community. Come celebrate the magic of the season with as we bring people together through music for a wonderful cause!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/0057f0b66400261ae17e2d23382839fc8fe4d619/original/906062229-18649392679035279-8102695497756148175-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823075/789431128/justin-echols-hope-for-the-holidays",
+      "ticket_url": "https://secure.qgiv.com/for/2026hopefortheholidaysconcert/event/2026hopefortheholidaysconcertfeaturingjustinecholslive/",
       "reservation_url": null
     },
     {
@@ -1023,10 +1039,10 @@
       "venue": "UCO Jazz Lab",
       "location": "UCO Jazz Lab, 100 E 5th St, Edmond, OK 73034",
       "venue_url": "https://www.ucojazzlab.com/",
-      "description": "Celebrate the Holiday season with Oklahoma City’s renown professional concert jazz ensemble.\nTICKETS ON SALE SOON\nDoors open at 6:00 p.m. | Show starts at 7:00 p.m.\nTickets will be available for purchase online and at the door while available.\nHideaway Pizza and full bar service are available inside the UCO Jazz Lab during all performances.\nEvent Cost $20",
+      "description": "Celebrate the Holiday season with Oklahoma City’s renown professional concert jazz ensemble.\nDoors open at 6:00 p.m. | Show starts at 7:00 p.m.\nTickets will be available for purchase online and at the door while available.\nHideaway Pizza and full bar service are available inside the UCO Jazz Lab during all performances.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/a675735a22ef73fec02a569dfc0e66d14ea24ea7/original/1283-okcjo-2022-rev-1788921092.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6782330/785150176/oklahoma-city-jazz-orchestra",
-      "ticket_url": null,
+      "ticket_url": "https://calendar.uco.edu/jazz-lab/event/15014-oklahoma-city-jazz-orchestra",
       "reservation_url": null
     },
     {
@@ -1462,6 +1478,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431076",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-01-06",
+      "start": "2027-01-06T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431076/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920824",
       "title": "Solo Guitar @ Hefner Grill",
@@ -1666,6 +1698,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907453/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431077",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-01-13",
+      "start": "2027-01-13T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431077/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2070,6 +2118,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431079",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-01-27",
+      "start": "2027-01-27T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431079/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920827",
       "title": "Solo Guitar @ Hefner Grill",
@@ -2258,6 +2322,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907456/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431080",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-02-03",
+      "start": "2027-02-03T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431080/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -2502,6 +2582,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431081",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-02-10",
+      "start": "2027-02-10T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431081/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920829",
       "title": "Solo Guitar @ Hefner Grill",
@@ -2694,6 +2790,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431082",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-02-17",
+      "start": "2027-02-17T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431082/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920830",
       "title": "Solo Guitar @ Hefner Grill",
@@ -2739,6 +2851,22 @@
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9076f9c96ac15a002fd463d32e194a2cd7307dbb/original/270051475-4716647361782173-4012186389120143116-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6634356/768849134/noah-engh-trio-burn",
       "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823096",
+      "occurrence_id": "789431503",
+      "title": "Dave Meder Trio @ Jazz Lab",
+      "date": "2027-02-17",
+      "start": "2027-02-17T19:30:00-06:00",
+      "end_time_label": null,
+      "venue": "UCO Jazz Lab",
+      "location": "UCO Jazz Lab, 100 E 5th St, Edmond, OK",
+      "venue_url": "https://www.ucojazzlab.com/",
+      "description": "(Special guest artist may be announced at a later date)\nPianist, composer and educator Dave Meder is recognized as one of the leading jazz artists of his generation. Praised for his adventurous musical style, Meder blends post-bop, gospel, classical and contemporary influences into performances that are both inventive and deeply expressive. His work has earned recognition from the Thelonious Monk International Jazz Piano Competition, the American Pianists Awards and Chamber Music America. Meder has performed and led educational residencies at renowned venues including Jazz at Lincoln Center and The Kennedy Center, as well as throughout Europe, Asia, South America and the Middle East. A Yamaha Artist, Fulbright Scholar and professor at the University of North Texas, he continues to shape the future of jazz through both performance and education.\nWed, Feb 17th @ 7:30 p.m.\nUCO Jazz Lab\nHideaway Pizza and full bar service are available inside the Jazz Lab.",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/6d58cac04abd0dddbc5729a399e8e26763c73d61/original/1200-dave-meder-rev-1785265821.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823096/789431503/dave-meder-trio-jazz-lab",
+      "ticket_url": "https://calendar.uco.edu/jazz-lab/event/14255-dave-meder",
       "reservation_url": null
     },
     {
@@ -2898,6 +3026,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907459/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431083",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-02-24",
+      "start": "2027-02-24T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431083/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3090,6 +3234,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907460/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431084",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-03-03",
+      "start": "2027-03-03T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431084/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3350,6 +3510,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431085",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-03-10",
+      "start": "2027-03-10T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431085/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920833",
       "title": "Solo Guitar @ Hefner Grill",
@@ -3538,6 +3714,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907462/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431086",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-03-17",
+      "start": "2027-03-17T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431086/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -3750,6 +3942,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431087",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-03-24",
+      "start": "2027-03-24T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431087/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920835",
       "title": "Solo Guitar @ Hefner Grill",
@@ -3938,6 +4146,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907464/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431088",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-03-31",
+      "start": "2027-03-31T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431088/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4182,6 +4406,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431089",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-04-07",
+      "start": "2027-04-07T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431089/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920837",
       "title": "Solo Guitar @ Hefner Grill",
@@ -4374,6 +4614,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431090",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-04-14",
+      "start": "2027-04-14T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431090/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920838",
       "title": "Solo Guitar @ Hefner Grill",
@@ -4534,22 +4790,6 @@
       "reservation_url": null
     },
     {
-      "event_id": "6794916",
-      "occurrence_id": "786448536",
-      "title": "Jazz Nights @ Highball Sushi",
-      "date": "2027-04-18",
-      "start": "2027-04-18T18:00:00-05:00",
-      "end_time_label": "9:00PM",
-      "venue": "Highball Sushi + Kitchen",
-      "location": "Highball Sushi + Kitchen, 808 N Broadway Ave, Oklahoma City, OK 73102",
-      "venue_url": "https://www.highballokc.com/",
-      "description": "Join us on Sundays for Live Jazz at Highball!\nLineup for Nov & Dec:\nNov. 1 - KC White Trio\nNov. 8 - KC White Trio\nNov. 15 - Mitch Bell Trio\nNov. 22 - Marcus Upshaw Trio\nNov. 29 - Marcus Upshaw Trio\nDec. 6 - Mitch Bell Trio\nJoin us in downtown OKC for Live Jazz and happy hour!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/f757fc4377313ca6c74933ad54a2dc6cced628a0/original/screenshot-2026-10-29-at-3-14-40-pm.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6794916/786448536/jazz-nights-highball-sushi",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
       "event_id": "6137830",
       "occurrence_id": "786187013",
       "title": "Blue Note Jazz Night",
@@ -4578,6 +4818,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907467/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431091",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-04-21",
+      "start": "2027-04-21T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431091/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4770,6 +5026,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907468/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431092",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-04-28",
+      "start": "2027-04-28T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431092/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -4998,6 +5270,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431093",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-05-05",
+      "start": "2027-05-05T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431093/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920841",
       "title": "Solo Guitar @ Hefner Grill",
@@ -5202,6 +5490,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907470/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431094",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-05-12",
+      "start": "2027-05-12T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431094/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -5606,6 +5910,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431096",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-05-26",
+      "start": "2027-05-26T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431096/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920844",
       "title": "Solo Guitar @ Hefner Grill",
@@ -5810,6 +6130,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907473/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431097",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-06-02",
+      "start": "2027-06-02T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431097/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6038,6 +6374,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431098",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-06-09",
+      "start": "2027-06-09T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431098/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920846",
       "title": "Solo Guitar @ Hefner Grill",
@@ -6246,6 +6598,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431099",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-06-16",
+      "start": "2027-06-16T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431099/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920847",
       "title": "Solo Guitar @ Hefner Grill",
@@ -6434,6 +6802,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907476/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431100",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-06-23",
+      "start": "2027-06-23T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431100/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -6630,6 +7014,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431101",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-06-30",
+      "start": "2027-06-30T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431101/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920849",
       "title": "Solo Guitar @ Hefner Grill",
@@ -6806,6 +7206,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431102",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-07-07",
+      "start": "2027-07-07T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431102/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920850",
       "title": "Solo Guitar @ Hefner Grill",
@@ -6966,6 +7382,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431103",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-07-14",
+      "start": "2027-07-14T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431103/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920851",
       "title": "Solo Guitar @ Hefner Grill",
@@ -7106,6 +7538,22 @@
       "description": "Every Sunday night, come out to the Blue Note and check out the featured artist of the week!\n( no cover )",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/4d9b2c06720a5ce8c7376a3e63084c4b1fbc6776/original/ble-note-lofo.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6137830/786187026/blue-note-jazz-night",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431104",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-07-21",
+      "start": "2027-07-21T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431104/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7270,6 +7718,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431105",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-07-28",
+      "start": "2027-07-28T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431105/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920853",
       "title": "Solo Guitar @ Hefner Grill",
@@ -7426,6 +7890,22 @@
       "description": "Every Sunday night, come out to the Blue Note and check out the featured artist of the week!\n( no cover )",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/4d9b2c06720a5ce8c7376a3e63084c4b1fbc6776/original/ble-note-lofo.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6137830/786187028/blue-note-jazz-night",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431106",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-08-04",
+      "start": "2027-08-04T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431106/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7606,6 +8086,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431107",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-08-11",
+      "start": "2027-08-11T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431107/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920855",
       "title": "Solo Guitar @ Hefner Grill",
@@ -7746,6 +8242,22 @@
       "description": "Every Sunday night, come out to the Blue Note and check out the featured artist of the week!\n( no cover )",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/4d9b2c06720a5ce8c7376a3e63084c4b1fbc6776/original/ble-note-lofo.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6137830/786187030/blue-note-jazz-night",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431108",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-08-18",
+      "start": "2027-08-18T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431108/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -7910,6 +8422,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431109",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-08-25",
+      "start": "2027-08-25T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431109/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6725246",
       "occurrence_id": "778920857",
       "title": "Solo Guitar @ Hefner Grill",
@@ -8054,18 +8582,18 @@
       "reservation_url": null
     },
     {
-      "event_id": "6725246",
-      "occurrence_id": "778920858",
-      "title": "Solo Guitar @ Hefner Grill",
+      "event_id": "6823069",
+      "occurrence_id": "789431110",
+      "title": "Justin Echols @ Slate at the Founders Tower",
       "date": "2027-09-01",
       "start": "2027-09-01T18:00:00-05:00",
-      "end_time_label": "8:00PM",
-      "venue": "Hefner Grill",
-      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
-      "venue_url": "https://hefnergrill.com/",
-      "description": "Enjoy an evening of live solo jazz guitar featuring Kevin Webb, each Wednesday night from 6-8pm at Hefner Grill!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9edd0f46cf8f4888865d73033793c0fc78c272f8/original/370272110-10226304644295725-8049155252665302362-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6725246/778920858/solo-guitar-hefner-grill",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431110/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8230,6 +8758,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431111",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-09-08",
+      "start": "2027-09-08T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431111/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "5918407",
       "occurrence_id": "785150149",
       "title": "Wine Down Wednesday @ The Study",
@@ -8338,6 +8882,22 @@
       "description": "Every Sunday night, come out to the Blue Note and check out the featured artist of the week!\n( no cover )",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/4d9b2c06720a5ce8c7376a3e63084c4b1fbc6776/original/ble-note-lofo.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6137830/786187034/blue-note-jazz-night",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431112",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-09-15",
+      "start": "2027-09-15T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431112/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8470,6 +9030,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431113",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-09-22",
+      "start": "2027-09-22T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431113/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "5918407",
       "occurrence_id": "785150151",
       "title": "Wine Down Wednesday @ The Study",
@@ -8578,6 +9154,22 @@
       "description": "Every Sunday night, come out to the Blue Note and check out the featured artist of the week!\n( no cover )",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/4d9b2c06720a5ce8c7376a3e63084c4b1fbc6776/original/ble-note-lofo.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6137830/786187036/blue-note-jazz-night",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431114",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-09-29",
+      "start": "2027-09-29T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431114/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8726,6 +9318,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431115",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-10-06",
+      "start": "2027-10-06T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431115/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "5918407",
       "occurrence_id": "785150153",
       "title": "Wine Down Wednesday @ The Study",
@@ -8834,6 +9442,22 @@
       "description": "Every Sunday night, come out to the Blue Note and check out the featured artist of the week!\n( no cover )",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/4d9b2c06720a5ce8c7376a3e63084c4b1fbc6776/original/ble-note-lofo.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6137830/786187038/blue-note-jazz-night",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431116",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-10-13",
+      "start": "2027-10-13T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431116/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -8966,6 +9590,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431117",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-10-20",
+      "start": "2027-10-20T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431117/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "5918407",
       "occurrence_id": "785150155",
       "title": "Wine Down Wednesday @ The Study",
@@ -9078,6 +9718,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431118",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-10-27",
+      "start": "2027-10-27T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431118/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6188645",
       "occurrence_id": "788782689",
       "title": "The Speakeasy Jazz Night & Jam Session",
@@ -9138,6 +9794,22 @@
       "description": "Come jam with us at OU with the JTF Collective!\nALL AGES\nBi-weekly Sunday @ 6-8pm\nNov 1st\nNov 15th (ft. Ben Patterson!)\nNov 29th\nDec 13th\nBackyard at Midway Deli",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/c0234738ae6bd792a50f07ebab52ed916672d2e3/original/img-9597.jpeg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6783353/785929801/jtf-jazz-jam-midway",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431119",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-11-03",
+      "start": "2027-11-03T18:00:00-05:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431119/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
@@ -9206,6 +9878,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431120",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-11-10",
+      "start": "2027-11-10T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431120/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6188645",
       "occurrence_id": "788782691",
       "title": "The Speakeasy Jazz Night & Jam Session",
@@ -9222,6 +9910,22 @@
       "reservation_url": null
     },
     {
+      "event_id": "6823069",
+      "occurrence_id": "789431121",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-11-17",
+      "start": "2027-11-17T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431121/justin-echols-slate-at-the-founders-tower",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
       "event_id": "6188645",
       "occurrence_id": "788782692",
       "title": "The Speakeasy Jazz Night & Jam Session",
@@ -9234,6 +9938,22 @@
       "description": "Join us every Wednesday night for a special jazz performance with the Kendrik McKinney Quartet, featuring a new local headlining artist each week!\nStay after the set for the open jam session!\nHeadliners/details announced each week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9597bf68e8a38190d30fa4d64ca8635eb2fb8fcf/original/51-a3be7b05-5056-a36a-06983d12ee.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6188645/788782692/the-speakeasy-jazz-night-jam-session",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431122",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-11-24",
+      "start": "2027-11-24T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431122/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     }
