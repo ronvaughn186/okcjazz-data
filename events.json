@@ -1,26 +1,10 @@
 {
   "source": "https://okcjazz.life/shows-and-events",
-  "generated_at": "2026-11-22T00:52:05.272856-06:00",
+  "generated_at": "2026-11-22T10:18:01.951749-06:00",
   "timezone": "America/Chicago",
   "event_count": 624,
   "complete_pagination": true,
   "events": [
-    {
-      "event_id": "6816281",
-      "occurrence_id": "788782826",
-      "title": "Rei & The Moving Castle @ Perets",
-      "date": "2026-11-21",
-      "start": "2026-11-21T10:00:00-06:00",
-      "end_time_label": "1:30PM",
-      "venue": "Perets",
-      "location": "Perets, 701 W Sheridan Ave 2nd Floor, Oklahoma City, OK 73102",
-      "venue_url": "https://www.google.com/maps/search/?api=1&query=701%20W%20Sheridan%20Ave%202nd%20Floor,%20Oklahoma%20City,%20OK%2073102",
-      "description": "Join Perets on our adventure to the Japanese countryside to celebrate anime household classics on Sat, Nov 21st from 10am-1:30pm!\nFeaturing a live music performance by the local and themed quintet Rei and the Moving Castles to fully immerse yourself into the whimsical world.\nEnjoy on limited-time movie-themed beverages and treats made from scratch by Perets Coffee!\nShop handmade merchandise and trinkets from local artists!\nEnjoy discounted tickets for $10 until Tuesday, November 17th! Then, tickets will be for sale for $15! Guests under the age of 12 are free with purchase of adult ticket.\nWhether just stopping by, or staying with a good book to enjoy the ambiance, we would love to see you on the 21st!\n(Link to tickets below)",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/4756f316a04e92d306dd15f0cd4a386987eedff8/original/2026-04-04-rei-the-moving-castle-social-graphics-1920x1005-v1-jpg-sqxl.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
-      "event_url": "https://okcjazz.life/event/6816281/788782826/rei-the-moving-castle-perets",
-      "ticket_url": "https://checkout.square.site/merchant/MLH0GGS06A5BJ/checkout/AYSQKCPJODOH2QUR7T3WH35H",
-      "reservation_url": null
-    },
     {
       "event_id": "6782322",
       "occurrence_id": "785150168",
@@ -3506,6 +3490,22 @@
       "description": "Join us on Tuesday nights as Ethan Vascellaro presents \"Standards and Spirits\", jazz standards on piano paired with your favorite early week cocktails and the best espresso martini in the metro. 7-9pm every week.",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/ba4b7e48a7dcd5c23ee868877a090545a33f75f6/original/899445615-1394688739133517-3340734533057885105-n.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6653097/770907461/standards-spirits-round-midnight",
+      "ticket_url": null,
+      "reservation_url": null
+    },
+    {
+      "event_id": "6823069",
+      "occurrence_id": "789431085",
+      "title": "Justin Echols @ Slate at the Founders Tower",
+      "date": "2027-03-10",
+      "start": "2027-03-10T18:00:00-06:00",
+      "end_time_label": "9:00PM",
+      "venue": "Slate at Founders Tower",
+      "location": "Slate at Founders Tower, 5900 Mosteller Drive #STE 200, Oklahoma City",
+      "venue_url": "https://www.google.com/maps/search/?api=1&query=5900%20Mosteller%20Drive%20%23STE%20200,%20Oklahoma%20City",
+      "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
+      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
+      "event_url": "https://okcjazz.life/event/6823069/789431085/justin-echols-slate-at-the-founders-tower",
       "ticket_url": null,
       "reservation_url": null
     },
