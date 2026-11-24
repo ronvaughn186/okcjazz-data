@@ -1,8 +1,8 @@
 {
   "source": "https://okcjazz.life/shows-and-events",
-  "generated_at": "2026-11-23T20:54:46.203790-06:00",
+  "generated_at": "2026-11-24T08:54:23.319964-06:00",
   "timezone": "America/Chicago",
-  "event_count": 616,
+  "event_count": 615,
   "complete_pagination": true,
   "events": [
     {
@@ -4482,22 +4482,6 @@
       "description": "Experience Slate, atop the the historic Founders Tower, and enjoy a weekly Wednesday night experience with the imitable Justin Echols on vocals and piano with his top-of-the-line band!",
       "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/2612d4e6c2d0844b8d58660d17cd827a07ccfa50/original/13-20230918212353-10774173-xlarge.jpg/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg",
       "event_url": "https://okcjazz.life/event/6823069/789431090/justin-echols-slate-at-the-founders-tower",
-      "ticket_url": null,
-      "reservation_url": null
-    },
-    {
-      "event_id": "6725246",
-      "occurrence_id": "778920838",
-      "title": "Solo Guitar @ Hefner Grill",
-      "date": "2027-04-14",
-      "start": "2027-04-14T18:00:00-05:00",
-      "end_time_label": "8:00PM",
-      "venue": "Hefner Grill",
-      "location": "Hefner Grill, 9201 Lake Hefner Pkwy, Oklahoma City, OK",
-      "venue_url": "https://hefnergrill.com/",
-      "description": "Enjoy an evening of live solo jazz guitar featuring Kevin Webb, each Wednesday night from 6-8pm at Hefner Grill!",
-      "image_url": "https://images.zoogletools.com/s:bzglfiles/u/711006/9edd0f46cf8f4888865d73033793c0fc78c272f8/original/370272110-10226304644295725-8049155252665302362-n.png/!!/b%3AW1sicmVzaXplIixbMjAwLG51bGwseyJ3aXRob3V0RW5sYXJnZW1lbnQiOnRydWUsImZpdCI6Im91dHNpZGUifV1dXQ%3D%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.png",
-      "event_url": "https://okcjazz.life/event/6725246/778920838/solo-guitar-hefner-grill",
       "ticket_url": null,
       "reservation_url": null
     },
